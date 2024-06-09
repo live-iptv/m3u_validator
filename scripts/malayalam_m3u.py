@@ -76,7 +76,6 @@ def fix_m3u_from_url(urls):
 
 if __name__ == "__main__":
     m3u_urls = [
-        'https://iptv-org.github.io/iptv/languages/mal.m3u',
-        'https://live-iptv.github.io/iptv/kids.m3u'
+        'https://iptv-org.github.io/iptv/languages/mal.m3u'
     ]
     fix_m3u_from_url(m3u_urls)
