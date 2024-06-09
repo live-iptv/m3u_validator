@@ -1,6 +1,8 @@
 import re
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from urllib.parse import urlparse
+import os
 
 def fix_m3u_from_url(urls):
     def fetch_m3u_content(url):
@@ -18,7 +20,7 @@ def fix_m3u_from_url(urls):
             pass
         return None
 
-    def process_m3u_content(content):
+    def process_m3u_content(content, file_name):
         lines = content.split('\n')
 
         # Extract URLs with associated information
@@ -32,7 +34,7 @@ def fix_m3u_from_url(urls):
                     attributes = match.group(1)
                     # Extract individual attributes
                     group_title_match = re.search(r'group-title="([^"]*)"', attributes)
-                    group_title = group_title_match.group(1) if group_title_match else 'Others'
+                    group_title = group_title_match.group(1) if group_title_match else f'{file_name}_Others'
 
                     tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
                     tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
@@ -78,7 +80,8 @@ def fix_m3u_from_url(urls):
     for url in urls:
         m3u_content = fetch_m3u_content(url)
         if m3u_content:
-            fixed_content = process_m3u_content(m3u_content)
+            file_name = os.path.splitext(os.path.basename(urlparse(url).path))[0]
+            fixed_content = process_m3u_content(m3u_content, file_name)
             print(fixed_content)
 
 if __name__ == "__main__":
