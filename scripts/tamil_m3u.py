@@ -11,7 +11,7 @@ def fix_m3u_from_url(urls):
 
     def is_url_reachable(entry):
         try:
-            url_response = requests.head(entry['url'], timeout=5)
+            url_response = requests.head(entry['url'], timeout=10)
             if url_response.status_code == 200:
                 return entry
         except requests.RequestException:
