@@ -99,6 +99,5 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20X.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20Y.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20Z.m3u',
-        'https://live-iptv.github.io/iptv/xxx/ahlakid.m3u'
     ]
     fix_m3u_from_url(m3u_urls)
