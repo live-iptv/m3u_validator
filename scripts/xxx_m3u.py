@@ -1,7 +1,7 @@
 import re
 import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 import os
 
 def fix_m3u_from_url(urls):
@@ -13,7 +13,7 @@ def fix_m3u_from_url(urls):
 
     def is_url_reachable(entry):
         try:
-            url_response = requests.head(entry['url'], timeout=5)
+            url_response = requests.head(entry['url'], timeout=10)
             if url_response.status_code == 200:
                 return entry
         except requests.RequestException:
@@ -80,8 +80,9 @@ def fix_m3u_from_url(urls):
     for url in urls:
         m3u_content = fetch_m3u_content(url)
         if m3u_content:
-            file_name = os.path.splitext(os.path.basename(urlparse(url).path))[0]
-            fixed_content = process_m3u_content(m3u_content, file_name)
+            # Decode the file name to handle special characters
+            decoded_file_name = unquote(os.path.splitext(os.path.basename(urlparse(url).path))[0])
+            fixed_content = process_m3u_content(m3u_content, decoded_file_name)
             print(fixed_content)
 
 if __name__ == "__main__":
