@@ -6,7 +6,6 @@ def fix_m3u_from_url(urls):
     def fetch_m3u_content(url):
         response = requests.get(url)
         if response.status_code != 200:
-            pass
             return None
         return response.text
 
@@ -49,10 +48,18 @@ def fix_m3u_from_url(urls):
                 entries.append(current_entry)
                 current_entry = None
 
+        # Remove duplicate URLs
+        unique_entries = []
+        seen_urls = set()
+        for entry in entries:
+            if entry['url'] not in seen_urls:
+                unique_entries.append(entry)
+                seen_urls.add(entry['url'])
+
         # Verify if URLs are reachable concurrently
         reachable_entries = []
         with ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in entries}
+            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
             for future in as_completed(future_to_entry):
                 result = future.result()
                 if result is not None:
@@ -69,7 +76,6 @@ def fix_m3u_from_url(urls):
         return '\n'.join(sorted_m3u_content)
 
     for url in urls:
-        print(f"Processing URL: {url}")
         m3u_content = fetch_m3u_content(url)
         if m3u_content:
             fixed_content = process_m3u_content(m3u_content)
