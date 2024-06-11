@@ -33,7 +33,7 @@ def fix_m3u_from_url(urls):
                     attributes = match.group(1)
                     # Extract individual attributes
                     group_title_match = re.search(r'group-title="([^"]*)"', attributes)
-                    group_title = group_title_match.group(1) if group_title_match else 'Others'
+                    group_title = group_title_match.group(1) if group_title_match else 'Movies'
 
                     tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
                     tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
@@ -76,6 +76,6 @@ def fix_m3u_from_url(urls):
 
 if __name__ == "__main__":
     m3u_urls = [
-        'https://iptv-org.github.io/iptv/languages/mal.m3u'
+        'https://live-iptv.github.io/iptv/movies.m3u'
     ]
     fix_m3u_from_url(m3u_urls)
