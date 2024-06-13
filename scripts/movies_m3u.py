@@ -22,7 +22,7 @@ def fix_m3u_from_url(urls):
         return None
 
     def process_m3u_content(content):
-         lines = content.split('\n')
+        lines = content.split('\n')
 
         # Extract URLs with associated information
         entries = []
@@ -59,18 +59,17 @@ def fix_m3u_from_url(urls):
         unique_entries = [dict(entry) for entry in unique_entries]
 
         # Verify if URLs are reachable concurrently
-        # reachable_entries = []
-        # with ThreadPoolExecutor(max_workers=10) as executor:
-        #     future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
-        #     for future in as_completed(future_to_entry):
-        #         result = future.result()
-        #         if result is not None:
-        #             reachable_entries.append(result)
+        reachable_entries = []
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
+            for future in as_completed(future_to_entry):
+                result = future.result()
+                if result is not None:
+                    reachable_entries.append(result)
 
-        # # Sort entries based on group title
-        # sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
+        # Sort entries based on group title
+        sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
 
-sorted_entries = entries
         # Write the sorted M3U content
         sorted_m3u_content = ['#EXTM3U']
         for entry in sorted_entries:

@@ -22,7 +22,7 @@ def fix_m3u_from_url(urls):
         return None
 
     def process_m3u_content(content):
-         lines = content.split('\n')
+        lines = content.split('\n')
 
         # Extract URLs with associated information
         entries = []
@@ -61,7 +61,7 @@ def fix_m3u_from_url(urls):
         # Verify if URLs are reachable concurrently
         reachable_entries = []
         with ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in entries}
+            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
             for future in as_completed(future_to_entry):
                 result = future.result()
                 if result is not None:

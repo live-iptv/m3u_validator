@@ -22,7 +22,7 @@ def fix_m3u_from_url(urls):
         return None
 
     def process_m3u_content(content):
-         lines = content.split('\n')
+        lines = content.split('\n')
 
         # Extract URLs with associated information
         entries = []
