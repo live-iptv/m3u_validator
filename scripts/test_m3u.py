@@ -30,23 +30,22 @@ def fix_m3u_from_url(urls):
 
         for line in lines:
             if line.startswith('#EXTINF:-1'):
-                # Extract the part before the last comma and the part after the last comma separately
-                parts = line.split(',')
-                attributes = ','.join(parts[:-1])
-                name = parts[-1].strip()
+                match = re.search(r'#EXTINF:-1(.*?),(.+)', line)
+                if match:
+                    attributes = match.group(1)
+                    # Extract the first group-title
+                    group_title_match = re.search(r'group-title="([^"]*)"', attributes)
+                    group_title = group_title_match.group(1) if group_title_match else 'Movies'
 
-                # Extract individual attributes
-                group_title_match = re.search(r'group-title="([^"]*)"', attributes)
-                group_title = group_title_match.group(1) if group_title_match else 'Movies'
+                    tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
+                    tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
 
-                tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
-                tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
-
-                current_entry = {
-                    'group_title': group_title,
-                    'tvg_logo': tvg_logo,
-                    'name': name,
-                }
+                    name = match.group(2).strip().split(',')[-1]
+                    current_entry = {
+                        'group_title': group_title,
+                        'tvg_logo': tvg_logo,
+                        'name': name,
+                    }
             elif current_entry is not None and line.strip():
                 current_entry['url'] = line.strip()
                 entries.append(current_entry)
@@ -67,13 +66,11 @@ def fix_m3u_from_url(urls):
 
         # # Sort entries based on group title
         # sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
-sorted_entries = entries
+
         # Write the sorted M3U content
         sorted_m3u_content = ['#EXTM3U']
-        for entry in sorted_entries:
-            sorted_m3u_content.append(
-                f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}\n{entry["url"]}'
-            )
+        for entry in entries:
+            sorted_m3u_content.append(f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}\n{entry["url"]}')
 
         return '\n'.join(sorted_m3u_content)
 
