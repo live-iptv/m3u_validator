@@ -60,7 +60,7 @@ def fix_m3u_from_url(urls):
 
         # Verify if URLs are reachable concurrently
         reachable_entries = []
-        with ThreadPoolExecutor(max_workers=10) as executor:
+        with ThreadPoolExecutor(max_workers=15) as executor:
             future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
             for future in as_completed(future_to_entry):
                 result = future.result()
