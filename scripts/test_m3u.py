@@ -65,11 +65,11 @@ def fix_m3u_from_url(urls):
         #             reachable_entries.append(result)
 
         # # Sort entries based on group title
-        # sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
+        sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
 
         # Write the sorted M3U content
         sorted_m3u_content = ['#EXTM3U']
-        for entry in entries:
+        for entry in sorted_entries:
             sorted_m3u_content.append(f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}\n{entry["url"]}')
 
         return '\n'.join(sorted_m3u_content)
