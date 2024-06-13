@@ -22,25 +22,26 @@ def fix_m3u_from_url(urls):
         return None
 
     def process_m3u_content(content):
-        lines = content.split('\n')
+         lines = content.split('\n')
 
         # Extract URLs with associated information
         entries = []
         current_entry = None
+        seen_urls = set()  # To track unique URLs
 
         for line in lines:
             if line.startswith('#EXTINF:-1'):
                 match = re.search(r'#EXTINF:-1(.*?),(.+)', line)
                 if match:
                     attributes = match.group(1)
-                    # Extract individual attributes
+                    # Extract the first group-title
                     group_title_match = re.search(r'group-title="([^"]*)"', attributes)
                     group_title = group_title_match.group(1) if group_title_match else 'Movies'
 
                     tvg_logo_match = re.search(r'tvg-logo="([^"]*)"', attributes)
                     tvg_logo = tvg_logo_match.group(1) if tvg_logo_match else ''
 
-                    name = match.group(2).strip()
+                    name = match.group(2).strip().split(',')[-1]
                     current_entry = {
                         'group_title': group_title,
                         'tvg_logo': tvg_logo,
@@ -48,7 +49,9 @@ def fix_m3u_from_url(urls):
                     }
             elif current_entry is not None and line.strip():
                 current_entry['url'] = line.strip()
-                entries.append(current_entry)
+                if current_entry['url'] not in seen_urls:
+                    entries.append(current_entry)
+                    seen_urls.add(current_entry['url'])
                 current_entry = None
 
         # Remove duplicates by converting the list to a set of tuples and back to a list of dicts
