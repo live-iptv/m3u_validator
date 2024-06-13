@@ -4,11 +4,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def fix_m3u_from_url(urls):
     def fetch_m3u_content(url):
-        response = requests.get(url)
-        if response.status_code != 200:
+        try:
+            response = requests.get(url, timeout=10)
+            if response.status_code == 200:
+                return response.text
+        except requests.RequestException:
             pass
-            return None
-        return response.text
+        return None
 
     def is_url_reachable(entry):
         try:
@@ -44,23 +46,28 @@ def fix_m3u_from_url(urls):
                         'tvg_logo': tvg_logo,
                         'name': name,
                     }
-            elif current_entry is not None:
+            elif current_entry is not None and line.strip():
                 current_entry['url'] = line.strip()
                 entries.append(current_entry)
                 current_entry = None
 
+        # Remove duplicates by converting the list to a set of tuples and back to a list of dicts
+        unique_entries = {tuple(entry.items()) for entry in entries}
+        unique_entries = [dict(entry) for entry in unique_entries]
+
         # Verify if URLs are reachable concurrently
-        reachable_entries = []
-        with ThreadPoolExecutor(max_workers=10) as executor:
-            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in entries}
-            for future in as_completed(future_to_entry):
-                result = future.result()
-                if result is not None:
-                    reachable_entries.append(result)
+        # reachable_entries = []
+        # with ThreadPoolExecutor(max_workers=10) as executor:
+        #     future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
+        #     for future in as_completed(future_to_entry):
+        #         result = future.result()
+        #         if result is not None:
+        #             reachable_entries.append(result)
 
-        # Sort entries based on group title
-        sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
+        # # Sort entries based on group title
+        # sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
 
+sorted_entries = entries
         # Write the sorted M3U content
         sorted_m3u_content = ['#EXTM3U']
         for entry in sorted_entries:
