@@ -69,7 +69,6 @@ def fix_m3u_from_url(urls):
 
         # Sort entries based on group title
         sorted_entries = sorted(reachable_entries, key=lambda x: x['name'])
-
         sorted_entries = sorted(sorted_entries, key=lambda x: x['group_title'])
 
 
