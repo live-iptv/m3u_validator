@@ -27,6 +27,7 @@ def fix_m3u_from_url(urls):
         # Extract URLs with associated information
         entries = []
         current_entry = None
+        seen_urls = set()  # To track unique URLs
 
         for line in lines:
             if line.startswith('#EXTINF:-1'):
@@ -48,7 +49,9 @@ def fix_m3u_from_url(urls):
                     }
             elif current_entry is not None and line.strip():
                 current_entry['url'] = line.strip()
-                entries.append(current_entry)
+                if current_entry['url'] not in seen_urls:
+                    entries.append(current_entry)
+                    seen_urls.add(current_entry['url'])
                 current_entry = None
 
         # Remove duplicates by converting the list to a set of tuples and back to a list of dicts
@@ -64,7 +67,7 @@ def fix_m3u_from_url(urls):
         #         if result is not None:
         #             reachable_entries.append(result)
 
-        # # Sort entries based on group title
+        # Sort entries based on group title
         sorted_entries = sorted(reachable_entries, key=lambda x: x['group_title'])
 
         # Write the sorted M3U content
