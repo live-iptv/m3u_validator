@@ -43,10 +43,14 @@ https://ipcloud.live/knrtv/knrhd/index.m3u8
 https://cdn.onecloudlive.in/kumaritv/kumarihd/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fleo-tv.png?alt=media&token=bbec0922-0a8c-4680-a764-bbd6115cd4cc",LEO TV
 https://ipcloud.live/leotv/leotvhd/index.m3u8
+#EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/NPwmWr-Ek2l10XpzpuDvUQkvNEGxo7vop2imFPKyUqCI5nDprfy1Bcivvax13vKqj80=w480-h960-rw",M TV
+https://ipcloud.live/mtv/menhd/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMALATHI-TV.png?alt=media&token=b8c6cc5a-4e7f-419a-912f-2bcc22f6ea17",MALATHI TV
 https://ipcloud.live/malathitv/live/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMM-TV.png?alt=media&token=ccb7a8dd-b2ac-4498-9e92-67271192e6b9",MM TV
 https://ipcloud.live/mmtv/mmtvhd/index.m3u8
+#EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMSN-TV.png?alt=media&token=e2a0664c-ef4f-4603-9936-2d4e439d4bc8",MSN TV
+https://ipcloud.live/msntv/msntv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMULLAI-TV.png?alt=media&token=48f947bf-4fc2-4de7-a5f8-d180b6ebe12b",MULLAI TV
 https://ipcloud.live/mullaitv/mullaitv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="",MUSIC STAR TV
@@ -61,12 +65,16 @@ https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
 https://ipcloud.live/nvision/skymusic/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/EPUT5s-IW087AjK5fm4UtbtZTU5DL7zvSpuNkU58dfXtvTaJr6_ECITrc9mAEy7jfyg=w480-h960-rw",PHOENIX HD
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fpkt-media.png?alt=media&token=65df4156-aefa-41e8-8616-6d7f6cbbb492",PKT MEDIA TV
+https://ipcloud.live/pktmedia/pktmedia/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0=w480-h960-rw",RIO MAX
 https://ipcloud.live/riotv/riotvmax/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/JPKzzsiuOYCAu9n7EJPq72iyIOMxcBc0q8EUwx_5M1P_GaBdkMXlQIh4RH7wb5X6-EY",RIO TV
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/RNR.png?alt=media&token=0aeec133-6ba3-40c8-8b81-a74df1a4c9be",RNR HD
 https://cdn.onecloudlive.in/rnr/rnrhd/index.m3u8
+#EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAAMI-TV.png?alt=media&token=433ca55f-db87-4e91-9068-9fe1e7beb5c4",SAAMI TV
+https://ipcloud.live/msntv/saamitv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03",SAHARA HD TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220",SKY MUSIC TV
@@ -83,8 +91,6 @@ https://ipcloud.live/vaani/visuals/index.m3u8
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FVEERALI-TV.png?alt=media&token=d014781f-b2f2-46d7-84e7-50018b9b53ae",VEERALI TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
-#EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/IeIaCvqJwuinzGQUFhY18PPxQip0JmPoRJ3_jy11b1pkB9ztitJYpWGgLNEk8VLfd6I=w240-h480-rw",VELUR TV
-https://cdn.onecloudlive.in/bass/velurtv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="https://play-lh.googleusercontent.com/TauCC67ymhC68neghjk6wAMsknEVb4aCXzTMfx_DLpi3SscWzUJJs5ug3irXuvlLGdI",VIMAL TV
 https://ipcloud.live/karthick/vimaltv/index.m3u8
 #EXTINF:-1 group-title="1CLOUD" tvg-logo="",WATHANAM HD TV
@@ -95,6 +101,8 @@ https://ipcloud.live/yogaatv/yogaatv/index.m3u8
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 #EXTINF:-1 group-title="CHENNAI" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240301_2244317298866699085230816.png",VANAVIL TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+#EXTINF:-1 group-title="CINEMANIA|MOVIES" tvg-logo="",TAMIL CLASSIC CINEMA 6 HD
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/tamil-classic-cinema-6-hd/index.ts
 #EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_1000084918936676493366971.png",ATHITHOOTHAR TV
 http://athithoothartv.stream.onecloudlive.in/athithoothartv/athithoothartvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0223263207013333774828970.png",IBC SILUVAI
@@ -147,6 +155,8 @@ https://galaxyott.live/hls/dharshantv.m3u8
 https://server.sscloud7.in/aasaitv/aasaitv/index.m3u8
 #EXTINF:-1 group-title="KANYAKUMARI" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_005100115014949188833662.png",DIGITAL TV
 http://applelive.in/digitaltv/digitaltv.m3u8
+#EXTINF:-1 group-title="KANYAKUMARI" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_185859168162128473962258.png",GCV TV
+http://applelive.in/gcv/gcv.m3u8
 #EXTINF:-1 group-title="KANYAKUMARI" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240308_134829212056601576797114.png",HAI TV
 http://live.applelive.in/haitv/haitv.m3u8
 #EXTINF:-1 group-title="KANYAKUMARI" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_1346167681623146710059212.png",JCV TV
@@ -183,18 +193,12 @@ http://bmlive.net:8000/ctn/ctn/bms.m3u8?hls_ctx=08a65193
 http://singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_1000251246904102484321375.png",DSR TV
 http://udigitalott.ridsys.in/riptv/live/stream72/index.m3u8
-#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_232658132787847996425136.png",G TV
-https://live.singamcloud.in/gtv/gtv/index.m3u8
-#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0024073201382314858860527.png",HARI TV
-https://live.skystream.in/live/haritv/index.m3u8
-#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_1023448676485537820530118.png",HERO TV
-http://cloudstream4k.com:1935/herotv/bsk/chunklist_w1215529300.m3u8
+#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_1038275256601579984543340.png",ISAI HD TV
+http://server.sscloud7.in/isaihd/isaihd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0917083041332261609729794.png",JAYAM TV
 http://103.147.60.4:1935/live/jayamtv/chunklist_w1842098533.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0428126497187039134008538.png",JHP TV
 http://jhptv.7starcloud.com:1935/live/jhptv/chunklist_w410312323.m3u8
-#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_2046328798385470697522137.png",K CHANNEL
-http://indiamatrix.in/kchannel/kchannel.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png",KAVIN TV
 http://198.144.149.206:8080/NOTV/KAVINTV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png",KCTN TV
@@ -251,6 +255,8 @@ https://play.google.com/store/apps/details?id=com.notv.nrstv
 https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240602_1222373763100550704710638.png",NEWS TAMIL 24X7
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1954&e=.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="",SAMUGAM
+https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240606_1005063335019012635312549.png",SATHIYAM
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=671&e=.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240405_2333202931812727953570942.png",TAMIL NEWS 24X7
@@ -290,11 +296,11 @@ http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339863.mp4
 #EXTINF:-1 group-title="Others" tvg-logo="",RATHNAM (2024) (TAMIL)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/338704.mp4
 #EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
-http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
+https://woobl.ru/hls987/Rentv_international.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="",RU: REN TV HD PEH
-https://woobl.ru/hls987/Rentv_international.m3u8
+http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
 #EXTINF:-1 group-title="Others" tvg-logo="",SAAMANIYAN (2024) (TAMIL)(CAM)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/339864.mp4
 #EXTINF:-1 group-title="Others" tvg-logo="",STAR MOVIES 4K HEVC
@@ -315,12 +321,12 @@ https://dl9.hotshare.online/Weapon_2024_720p_HD.mp4
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343225.mp4
 #EXTINF:-1 group-title="Others" tvg-logo="",ஹிட்லிஸ்ட் HIT LIST (2024) (Cam)
 http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/343235.mp4
-#EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png",AADHAVAN TV
-http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="https://play-lh.googleusercontent.com/BecixfnhPCGJmKw7n2GhsHR9updVYMILNIi1i3JmyyJjA6EIl0w87po-ApbaGIMMj-w=w240-h480-rw",HARISH TV
 http://harishtv.phoenixcreations.online:1935/harishtv/harishtv/playlist.m3u8
 #EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="https://i.ibb.co/Jnc9JbZ/Josetv.png",JOSE TV
 http://josetv.phoenixcreations.online:1935/josetv/josetv/playlist.m3u8
+#EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="https://play-lh.googleusercontent.com/x49J5cH-0yB4DYuF7gPv2ADihZ8Dg_VveTSTgnWflheHxzDiJMgt1wNUmvAvWGSicDk=w480-h960-rw",KHILA TV
+http://khilatv.phoenixcreations.online:1935/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="https://i.ibb.co/XxKYn1T/Mithratv.png",MITHRA TV
 http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
 #EXTINF:-1 group-title="PHOENIX CREATIONS" tvg-logo="",NTV
@@ -395,6 +401,8 @@ https://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 http://live.singamcloud.in/eesantv/eesantv/index.m3u8
 #EXTINF:-1 group-title="SINGAM CLOUD" tvg-logo="",GMEDIA APPLE TV
 http://applelive.in/gmedia/gmedia.m3u8
+#EXTINF:-1 group-title="SINGAM CLOUD" tvg-logo="",ITHAZH TNTR HD
+http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
 #EXTINF:-1 group-title="SINGAM CLOUD" tvg-logo="",JHP TV
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 group-title="SINGAM CLOUD" tvg-logo="",KARTHI TV
@@ -471,10 +479,8 @@ https://live1.sscloud7.com/hls/anandhamtv.m3u8
 https://stream.sscloud7.in/live/devitv/index.m3u8
 #EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://play-lh.googleusercontent.com/epEjdtuFkTZxmirMjLmL75RB3qpTByhZ1rFGQvWrLV5Y5UjytOYJ_OUAz9PQExkFpqw=w480-h960-rw",ENTHIRAN TV
 http://applelive.in/enthirantv/enthirantv.m3u8
-#EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706682083.PNG",JRMALAR TV
-https://stream.sscloud7.in/live/malartv/index.m3u8
-#EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706682083.PNG",JRMALAR TV
-https://stream.sscloud7.in/live/malartv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1700891344.PNG",ISAI TV
+http://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1700591798.PNG",KING TV
 http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
 #EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://play-lh.googleusercontent.com/ktFafhaxQQYVgS3A-_WiuBhIWm9TBdkUdlJlKZhAN15QIWVZxKVWKXghIkFO-CLKeivm=w240-h480-rw",MALAR CLOUD TV
@@ -513,6 +519,8 @@ http://vedhatv.phoenixcreations.online:1935/vedhatv/vedhatv/playlist.m3u8
 https://stream.sscloud7.in/live/vinayagatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1703505078.jpeg",VINAYAGA TV
 https://stream.sscloud7.in/live/vinayagatv/index.m3u8
+#EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706507510.png",VISHIL HD TV
+https://stream.sscloud7.in/live/vishiltv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SSCLOUD" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706507435.png",VISHIL2 TV
 https://stream.sscloud7.in/live/vishiltv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/imagecontent-11218-j9ichyag-m15342394670787239236.png",ADITHYA
@@ -541,6 +549,8 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=896&e=.m3u8
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/zetihd_thumbnail9001284851259421108.png",ZEE THIRAI
 http://b1g.ooo:80/324/324/663329
+#EXTINF:-1 group-title="TAMIL INTERNATIONAL" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png",EET TV
+https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="TAMIL INTERNATIONAL" tvg-logo="https://mhdtvworld.me/wp-content/uploads/2020/01/IBCMUSIC-185x278.jpg",IBC MUSIC TV
 https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
 #EXTINF:-1 group-title="TAMIL INTERNATIONAL" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/comedy.png",IBC PAKIDI TV
@@ -611,8 +621,6 @@ http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TENKASI" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png",MARAN TV
 https://server.sscloud7.in/marantv/marantv/index.m3u8
-#EXTINF:-1 group-title="TESTING" tvg-logo="",G TV
-http://live.singamcloud.in/gtv/gtv/index.m3u8
 #EXTINF:-1 group-title="TESTING" tvg-logo="",SELFIE TV
 http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
 #EXTINF:-1 group-title="TESTING" tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw",VISAKA TV
@@ -625,10 +633,10 @@ http://indiamatrix.in/nellaitimestv/nellaitimestv.m3u8
 http://livematrix.in/bamahd/bamahd.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562799_1597387259_7starcopy.jpg",7STAR TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://yt3.googleusercontent.com/evVITb9ONDizNfesge900NnZsKhXBpVzAqh1iQsLNeEpDUaB106RJkP-vr5PV9kb8VEuOX22CxY=s176-c-k-c0x00ffffff-no-rj",ANBU TV
-http://bmlive.net:8000/bms/anbutvhd/bms.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://i.ibb.co/X4qnnLF/ANBU-TV.png",ANBU TV
 http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://yt3.googleusercontent.com/evVITb9ONDizNfesge900NnZsKhXBpVzAqh1iQsLNeEpDUaB106RJkP-vr5PV9kb8VEuOX22CxY=s176-c-k-c0x00ffffff-no-rj",ANBU TV
+http://bmlive.net:8000/bms/anbutvhd/bms.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw",BS HD TV
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="",DEVADHAI TV
@@ -717,10 +725,6 @@ http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8
 https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://firebasestorage.googleapis.com/v0/b/cloud-multiapp.appspot.com/o/SACHIN-TV%2FSACHIN-TV.png?alt=media&token=e1096af6-c14b-40b8-8bf5-606e9d5acd72",SACHINTVHD
 https://ipcloud.live/sachintv/sachintvhd/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png",SANA PLUS HD
-https://galaxyott.live/hls/sanaplus.m3u8
-#EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/32/b7/e44c4e6afc16c7d8fc16a1b3ef11-ycb.jpg",SANA TV
-https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw",SK SOUTHERN TAMIL TV
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://i1.sndcdn.com/avatars-000137398306-qs8ouv-t1080x1080.jpg",SR MUSIX TV
@@ -757,14 +761,14 @@ https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlis
 http://eagletv.applelive.in/aonetv/aonetv.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://harisofttecch.in/tamiltvlive/upload/1679748284_mtv.jpg",M TV
 http://media.7starcloud.com:1935/harimedia/mtv/playlist.m3u8
-#EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="",MANASU TV
-https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1664776099_4444.jpg",MKPTV HD TV
 http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://i.ibb.co/X8gmjMZ/MPTV-TV.png",MPTV TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://i.ibb.co/bghGwhw/NAMATHU-SANGAMAM-TV.png",NAMATHU SANGAMAM TV
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
+#EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://i.ibb.co/YchgYs9/NELLAITIMES-TV.png",NELLAITIMES TV
+http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="",RED TV
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://play-lh.googleusercontent.com/wOu4K0Rlh5yCMDn0a7z-OBvypUO9Ub4YAPIptU2dLtvetv4SHWIFIQ1BdE2i-csTPTo=w240-h480-rw",ROWTHIRAM TV
@@ -783,12 +787,8 @@ http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="TLL TAMIL LCO" tvg-logo="https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/poster/1a5e930a-9335-4351-92c9-80d5cebd6441.webp",VANI TV
 http://bmlive.net:8000/maxmedia/vanitvhd/bms.m3u8
-#EXTINF:-1 group-title="TLL TAMIL LCOTLL TAMIL LCO" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbossTv.jpg?alt=media&token=346ef211-37dd-4edf-8a70-f29c70fb088ahttps://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw",KUMARI TV
-http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
 #EXTINF:-1 group-title="TRICHY" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2305068092467652869787344.png",N TV
 http://198.144.149.206:8080/NOTV/NTVTEM/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TRICHY" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png",SANA PLUS
-https://galaxyott.live//hls//sanaplus.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1559001389932035184628100.png",AGNI SIRAGUGAL
 http://udigitalott.ridsys.in/riptv/live/stream31/manifest.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1123571786781376100819156.png",AJITH HD
@@ -823,10 +823,10 @@ http://udigitalott.ridsys.in/riptv/live/stream74/manifest.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream29/manifest.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="",TAMIL OLI
 http://udigitalott.ridsys.in/riptv/live/stream33/index.m3u8
-#EXTINF:-1 group-title="UDIGITAL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/USILAI%20HD%20copy.png",USILAI HD
-http://udigitalott.ridsys.in/riptv/live/stream34/index.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="",USILAI HD
 http://udigitalott.ridsys.in/riptv/live/stream75/manifest.m3u8
+#EXTINF:-1 group-title="UDIGITAL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/USILAI%20HD%20copy.png",USILAI HD
+http://udigitalott.ridsys.in/riptv/live/stream34/index.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/veer%20box%20hd%20copy.png",VEER BOX HD
 http://udigitalott.ridsys.in/riptv/live/stream69/index.m3u8
 #EXTINF:-1 group-title="UDIGITAL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1543299115888350760861129.png",VINAYAGA HD
@@ -836,6 +836,8 @@ http://udigitalott.ridsys.in/riptv/live/stream26/index.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nLRqcj1.png",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/rMldFW8.png",EET TV (1080p) [Not 24/7]
+https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RyYmyWy.png",MK TV (576p) [Not 24/7]
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/cFNw4Af.png",MNTV (1080p)
@@ -925,10 +927,6 @@ http://Watchindia.net:8880/live/98697/23119/2101.ts
 https://public.iptv18.tech/vallabh.php?tv=161885
 #EXTINF:-1 group-title="IN | MUSIC" tvg-logo="http://b1g.fun/logos2/mtv+hd.jpg",IN | D2H MTV PLUS FHD
 https://public.iptv18.tech/vallabh.php?tv=82402
-#EXTINF:-1 group-title="IN | MUSIC" tvg-logo="http://b1g.fun/logos2/mtv_beatshd.jpg",IN | TS MTV BEATS FHD
-https://public.iptv18.tech/vallabh.php?tv=20980
-#EXTINF:-1 group-title="IN | MUSIC" tvg-logo="http://b1g.fun/logos2/mtv_beats.jpg",IN | TS MTV BEATS SD
-https://public.iptv18.tech/vallabh.php?tv=675563
 #EXTINF:-1 group-title="IN | MUSIC" tvg-logo="http://b1g.fun/logos2/mtv+hd.jpg",IN | TS MTV FHD+
 https://public.iptv18.tech/vallabh.php?tv=8523
 #EXTINF:-1 group-title="IN | MUSIC" tvg-logo="http://b1g.fun/logos2/mtv_beatshd.jpg",IN | VT MTV BEATS FHD
@@ -947,8 +945,6 @@ https://public.iptv18.tech/vallabh.php?tv=663346
 https://public.iptv18.tech/vallabh.php?tv=663347
 #EXTINF:-1 group-title="IN/PK | SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716",IN | D2H STAR SPORTS 1 FHD TAMIL
 https://public.iptv18.tech/vallabh.php?tv=166309
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Flix.png",IN-TM | D2H &FLIX FHD
-https://public.iptv18.tech/vallabh.php?tv=161826
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Adithya-TV.png",IN-TM | D2H ADITHYA TV
 https://public.iptv18.tech/vallabh.php?tv=20709
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Animal-Planet-HD-World.png",IN-TM | D2H ANIMAL PLANET FHD
@@ -957,6 +953,10 @@ https://public.iptv18.tech/vallabh.php?tv=161834
 https://public.iptv18.tech/vallabh.php?tv=161837
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451",IN-TM | D2H CHUTTI TV
 https://public.iptv18.tech/vallabh.php?tv=20808
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738",IN-TM | D2H COLORS HD
+https://public.iptv18.tech/vallabh.php?tv=20019
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png",IN-TM | D2H D TAMIL
+https://public.iptv18.tech/vallabh.php?tv=192766
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png",IN-TM | D2H DISCOVERY KIDS
 https://public.iptv18.tech/vallabh.php?tv=161860
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | D2H DISNEY CHANNEL
@@ -971,8 +971,6 @@ https://public.iptv18.tech/vallabh.php?tv=192771
 https://public.iptv18.tech/vallabh.php?tv=192770
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png",IN-TM | D2H JAYA TV HD
 https://public.iptv18.tech/vallabh.php?tv=8495
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png",IN-TM | D2H KALAIGNAR TV
-https://public.iptv18.tech/vallabh.php?tv=164444
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png",IN-TM | D2H KTV FHD
 https://public.iptv18.tech/vallabh.php?tv=161881
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-24.png",IN-TM | D2H MEGA 24
@@ -981,28 +979,28 @@ https://public.iptv18.tech/vallabh.php?tv=192773
 https://public.iptv18.tech/vallabh.php?tv=192772
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png",IN-TM | D2H MURASU TV
 https://public.iptv18.tech/vallabh.php?tv=400988
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",IN-TM | D2H NAT GEO FHD
+https://public.iptv18.tech/vallabh.php?tv=403907
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png",IN-TM | D2H NAT GEO WILD FHD
 https://public.iptv18.tech/vallabh.php?tv=161889
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-7-Tamil.png",IN-TM | D2H NEWS 7 TAMIL
 https://public.iptv18.tech/vallabh.php?tv=396759
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | D2H NICK
 https://public.iptv18.tech/vallabh.php?tv=161897
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png",IN-TM | D2H POGO
-https://public.iptv18.tech/vallabh.php?tv=161904
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png",IN-TM | D2H POLIMER TV
 https://public.iptv18.tech/vallabh.php?tv=192768
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png",IN-TM | D2H PUTHIYA THALAIMURAI
 https://public.iptv18.tech/vallabh.php?tv=396760
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png",IN-TM | D2H RAJ  TV
+https://public.iptv18.tech/vallabh.php?tv=192779
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png",IN-TM | D2H RAJ MUSIX
 https://public.iptv18.tech/vallabh.php?tv=192778
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-2.png",IN-TM | D2H RAJ NEWS
 https://public.iptv18.tech/vallabh.php?tv=192777
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png",IN-TM | D2H SEITHIGAL TV
-https://public.iptv18.tech/vallabh.php?tv=396761
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png",IN-TM | D2H SIRIPPOLI
 https://public.iptv18.tech/vallabh.php?tv=192776
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png",IN-TM | D2H SONIC
-https://public.iptv18.tech/vallabh.php?tv=161911
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png",IN-TM | D2H SONY BBC EARTH FHD
+https://public.iptv18.tech/vallabh.php?tv=161915
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png",IN-TM | D2H SONY PIX FHD
 https://public.iptv18.tech/vallabh.php?tv=397978
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png",IN-TM | D2H SONY YAY
@@ -1037,22 +1035,24 @@ https://public.iptv18.tech/vallabh.php?tv=58939
 https://public.iptv18.tech/vallabh.php?tv=396758
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png",IN-TM | MOON TV
 https://public.iptv18.tech/vallabh.php?tv=403888
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Yugam.png",IN-TM | PUTHU YUGAM TV
-https://public.iptv18.tech/vallabh.php?tv=163751
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-News.png",IN-TM | SUN NEWS
 https://public.iptv18.tech/vallabh.php?tv=20796
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | TS CARTOON NETWORK
 https://public.iptv18.tech/vallabh.php?tv=20809
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738",IN-TM | TS COLORS FHD
 https://public.iptv18.tech/vallabh.php?tv=17471
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png",IN-TM | TS D TAMIL
-https://public.iptv18.tech/vallabh.php?tv=663323
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Podhigal.png",IN-TM | TS DD PODHIGAI
 https://public.iptv18.tech/vallabh.php?tv=163754
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | TS DISCOVERY CHANNEL SD
 https://public.iptv18.tech/vallabh.php?tv=663359
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png",IN-TM | TS DISCOVERY KIDS
+https://public.iptv18.tech/vallabh.php?tv=20807
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | TS DISCOVERY WORLD FHD
+https://public.iptv18.tech/vallabh.php?tv=20806
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney-Junior.png",IN-TM | TS DISNEY JUNIOR
 https://public.iptv18.tech/vallabh.php?tv=663364
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Fox-Life-HD-1.png",IN-TM | TS FOX LIFE FHD
+https://public.iptv18.tech/vallabh.php?tv=663349
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png",IN-TM | TS HISTORY TV18 HD
 https://public.iptv18.tech/vallabh.php?tv=20811
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1g.fun/logos2/jmovie.jpg",IN-TM | TS J MOVIES
@@ -1063,8 +1063,6 @@ https://public.iptv18.tech/vallabh.php?tv=166304
 https://public.iptv18.tech/vallabh.php?tv=20794
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://e7.pngegg.com/pngimages/630/474/png-clipart-jaya-tv-television-channel-television-show-star-vijay-tv-news-television-logo.png",IN-TM | TS JAYA TV FHD
 https://public.iptv18.tech/vallabh.php?tv=20793
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png",IN-TM | TS KALAIGNAR TV
-https://public.iptv18.tech/vallabh.php?tv=663322
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png",IN-TM | TS MADHA TV
 https://public.iptv18.tech/vallabh.php?tv=663331
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Makkal-TV.png",IN-TM | TS MAKKAL TV
@@ -1077,8 +1075,6 @@ https://public.iptv18.tech/vallabh.php?tv=663336
 https://public.iptv18.tech/vallabh.php?tv=663324
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png",IN-TM | TS MURASU TV
 https://public.iptv18.tech/vallabh.php?tv=663335
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nambikkai-TV.png",IN-TM | TS NAMBIKKAI TV
-https://public.iptv18.tech/vallabh.php?tv=663332
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png",IN-TM | TS NAT GEO WILD FHD
 https://public.iptv18.tech/vallabh.php?tv=663355
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild.png",IN-TM | TS NAT GEO WILD SD
@@ -1087,8 +1083,6 @@ https://public.iptv18.tech/vallabh.php?tv=663356
 https://public.iptv18.tech/vallabh.php?tv=663353
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-7-Tamil.png",IN-TM | TS NEWS 7 TAMIL
 https://public.iptv18.tech/vallabh.php?tv=663340
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-J.png",IN-TM | TS NEWS J
-https://public.iptv18.tech/vallabh.php?tv=663345
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-Tamil-24x7-1.png",IN-TM | TS NEWS TAMIL 24X7
 https://public.iptv18.tech/vallabh.php?tv=403612
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News18-Tamil-Nadu-1.png",IN-TM | TS NEWS18 TAMIL NADU
@@ -1097,22 +1091,22 @@ https://public.iptv18.tech/vallabh.php?tv=663341
 https://public.iptv18.tech/vallabh.php?tv=20805
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Peppers.png",IN-TM | TS PEPPERS TV
 https://public.iptv18.tech/vallabh.php?tv=663333
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png",IN-TM | TS POGO
-https://public.iptv18.tech/vallabh.php?tv=20804
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png",IN-TM | TS POLIMER NEWS
+https://public.iptv18.tech/vallabh.php?tv=163752
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Polimer.png",IN-TM | TS POLIMER TV
 https://public.iptv18.tech/vallabh.php?tv=663327
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png",IN-TM | TS PUTHIYA THALAIMURAI
 https://public.iptv18.tech/vallabh.php?tv=663338
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Puthiya-Thalaimurai.png",IN-TM | TS PUTIYA THALAMURAI
 https://public.iptv18.tech/vallabh.php?tv=163750
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Digital-Plus.png",IN-TM | TS RAJ DIGITAL PLUS
+https://public.iptv18.tech/vallabh.php?tv=20803
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png",IN-TM | TS RAJ MUSIX
 https://public.iptv18.tech/vallabh.php?tv=20802
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-247.png",IN-TM | TS RAJ NEWS 24X7
 https://public.iptv18.tech/vallabh.php?tv=20801
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-TV.png",IN-TM | TS RAJ TV
 https://public.iptv18.tech/vallabh.php?tv=20800
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sathiyam-TV.png",IN-TM | TS SATHIYAM TV
-https://public.iptv18.tech/vallabh.php?tv=663344
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Seithigal-TV.png",IN-TM | TS SEITHIGAL TV
 https://public.iptv18.tech/vallabh.php?tv=663342
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png",IN-TM | TS SIRIPPOLI
@@ -1123,30 +1117,26 @@ https://public.iptv18.tech/vallabh.php?tv=20799
 https://public.iptv18.tech/vallabh.php?tv=20810
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png",IN-TM | TS SONY PIX FHD
 https://public.iptv18.tech/vallabh.php?tv=663319
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-1.png",IN-TM | TS SONY PIX SD
-https://public.iptv18.tech/vallabh.php?tv=663321
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png",IN-TM | TS SONY YAY
 https://public.iptv18.tech/vallabh.php?tv=20798
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png",IN-TM | TS STAR VIJAY FHD
 https://public.iptv18.tech/vallabh.php?tv=8536
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Life.png",IN-TM | TS SUN LIFE
 https://public.iptv18.tech/vallabh.php?tv=20797
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="",IN-TM | TS SUN TV FHD
-https://public.iptv18.tech/vallabh.php?tv=8494
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Naaptol-Tamil.png",IN-TM | TS TAMIL NAAPTOL
 https://public.iptv18.tech/vallabh.php?tv=663348
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Travelxp-Tamil.png",IN-TM | TS TRAVEL XP
 https://public.iptv18.tech/vallabh.php?tv=20795
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vendhar.png",IN-TM | TS VENDHAR TV
 https://public.iptv18.tech/vallabh.php?tv=663328
+#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-TV-HD.png",IN-TM | TS ZEE TV FHD
+https://public.iptv18.tech/vallabh.php?tv=16572
 #EXTINF:-1 group-title="INR | TAMIL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png",IN-TM | TVI
 https://public.iptv18.tech/vallabh.php?tv=58992
-#EXTINF:-1 group-title="INR | TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738",IN-TM | VT COLORS FHD
-https://public.iptv18.tech/vallabh.php?tv=235963
-#EXTINF:-1 group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SAT-SK IPL JIOCINEMA CRICKET
-http://Watchindia.net:8880/live/98697/23119/2492.ts
 #EXTINF:-1 group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SAT-SK IPL JIOCINEMA CRICKET
 http://Watchindia.net:8880/live/98697/23119/2614.ts
+#EXTINF:-1 group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SAT-SK IPL JIOCINEMA CRICKET
+http://Watchindia.net:8880/live/98697/23119/2492.ts
 #EXTINF:-1 group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SAT-SK IPL STAR SPORTS TAMIL
 http://Watchindia.net:8880/live/98697/23119/2186.ts
 #EXTINF:-1 group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",ஐபிஎல் SAT-SK IPL STAR SPORTS TAMIL
@@ -1195,8 +1185,8 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0032111846731292998356647.png",THANTHI TV
 https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62d4eecb00f20e3610bd807e9ac571adef584f0454bf4655dc2e69dc9cbb2e5
-#EXTINF:-1 group-title="New Movies" tvg-logo="",&flix HD
-http://124.29.225.205:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="New Movies" tvg-logo="",*_*_*_*_* CINEMANIA TV SERIES *_*_*_*_*
+https://public.iptv18.tech/vallabh.php?tv=425724
 #EXTINF:-1 group-title="New Movies" tvg-logo="",100 DAYS OF LOVE (2015)
 http://Watchindia.net:8880/movie/98697/23119/1131.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",101 WEDDINGS (2012)
@@ -1473,8 +1463,6 @@ http://Watchindia.net:8880/movie/98697/23119/2518.mkv
 http://Watchindia.net:8880/movie/98697/23119/2516.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",AYYAPPANUM KOSHIYUM (2020)
 http://Watchindia.net:8880/movie/98697/23119/1088.mkv
-#EXTINF:-1 group-title="New Movies" tvg-logo="",Animal Planet HD
-http://124.29.225.205:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="New Movies" tvg-logo="",AÅšOKA (2001)
 http://Watchindia.net:8880/movie/98697/23119/1410.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",BAABUL (2006)
@@ -1651,32 +1639,38 @@ http://Watchindia.net:8880/movie/98697/23119/1457.avi
 http://Watchindia.net:8880/movie/98697/23119/1098.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CHUPKE CHUPKE (1975)
 http://Watchindia.net:8880/movie/98697/23119/1824.mkv
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ALTBALAJI FHD
-https://public.iptv18.tech/vallabh.php?tv=385578
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA AMAZON 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=425745
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA AMAZON 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=425746
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA AMAZON 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=425747
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA AMAZON FHD
-https://public.iptv18.tech/vallabh.php?tv=385580
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA AMAZON 4 FHD
+https://public.iptv18.tech/vallabh.php?tv=425748
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642372
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 11 FHD
 https://public.iptv18.tech/vallabh.php?tv=642362
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 13 FHD
-https://public.iptv18.tech/vallabh.php?tv=642360
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 12 FHD
+https://public.iptv18.tech/vallabh.php?tv=642361
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 14 FHD
+https://public.iptv18.tech/vallabh.php?tv=642359
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 17 FHD
 https://public.iptv18.tech/vallabh.php?tv=642356
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=642371
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 18 FHD
+https://public.iptv18.tech/vallabh.php?tv=642355
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 19 FHD
+https://public.iptv18.tech/vallabh.php?tv=642354
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 20 FHD
+https://public.iptv18.tech/vallabh.php?tv=642353
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642370
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642369
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642368
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 8 FHD
-https://public.iptv18.tech/vallabh.php?tv=642365
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 6 FHD
+https://public.iptv18.tech/vallabh.php?tv=642367
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 7 FHD
+https://public.iptv18.tech/vallabh.php?tv=642366
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 9 FHD
 https://public.iptv18.tech/vallabh.php?tv=642364
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION 90'S 1 FHD
@@ -1689,60 +1683,72 @@ https://public.iptv18.tech/vallabh.php?tv=642273
 https://public.iptv18.tech/vallabh.php?tv=642275
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642350
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 4 FHD
-https://public.iptv18.tech/vallabh.php?tv=642349
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 5 FHD
-https://public.iptv18.tech/vallabh.php?tv=642348
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=642347
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 7 FHD
+https://public.iptv18.tech/vallabh.php?tv=642346
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ANIMATION CLASSIC 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642345
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA APPLE TV PLUS 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=425755
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA APPLE TV PLUS 2 FHD
+https://public.iptv18.tech/vallabh.php?tv=425756
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA APPLE TV PLUS 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=425757
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA DISNEY PLUS 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=425750
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA DISNEY PLUS 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=425751
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA DISNEY PLUS 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=425752
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA DISNEY PLUS 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=425753
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA DISNEY PLUS 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=425754
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA GOLDMINES DUBBED 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=425733
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=385306
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 11 FHD
-https://public.iptv18.tech/vallabh.php?tv=385296
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=385297
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 12 FHD
 https://public.iptv18.tech/vallabh.php?tv=385295
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 13 FHD
-https://public.iptv18.tech/vallabh.php?tv=385294
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 14 FHD
 https://public.iptv18.tech/vallabh.php?tv=385293
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 15 FHD
 https://public.iptv18.tech/vallabh.php?tv=385292
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 16 FHD
 https://public.iptv18.tech/vallabh.php?tv=385291
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 17 FHD
+https://public.iptv18.tech/vallabh.php?tv=385290
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 18 FHD
+https://public.iptv18.tech/vallabh.php?tv=385289
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 19 FHD
 https://public.iptv18.tech/vallabh.php?tv=385288
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=385305
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 21 FHD
-https://public.iptv18.tech/vallabh.php?tv=385286
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 20 FHD
+https://public.iptv18.tech/vallabh.php?tv=385287
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 22 FHD
 https://public.iptv18.tech/vallabh.php?tv=385285
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 23 FHD
-https://public.iptv18.tech/vallabh.php?tv=385284
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 27 FHD
-https://public.iptv18.tech/vallabh.php?tv=385280
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 24 FHD
+https://public.iptv18.tech/vallabh.php?tv=385283
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 25 FHD
+https://public.iptv18.tech/vallabh.php?tv=385282
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 26 FHD
+https://public.iptv18.tech/vallabh.php?tv=385281
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 29 FHD
+https://public.iptv18.tech/vallabh.php?tv=385278
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=385304
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 30 FHD
+https://public.iptv18.tech/vallabh.php?tv=385277
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 31 FHD
 https://public.iptv18.tech/vallabh.php?tv=385276
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 32 FHD
+https://public.iptv18.tech/vallabh.php?tv=385275
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 33 FHD
+https://public.iptv18.tech/vallabh.php?tv=385274
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 35 FHD
 https://public.iptv18.tech/vallabh.php?tv=385272
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 37 FHD
-https://public.iptv18.tech/vallabh.php?tv=385270
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 38 FHD
-https://public.iptv18.tech/vallabh.php?tv=385269
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 36 FHD
+https://public.iptv18.tech/vallabh.php?tv=385271
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 39 FHD
 https://public.iptv18.tech/vallabh.php?tv=385268
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 4 FHD
@@ -1753,74 +1759,100 @@ https://public.iptv18.tech/vallabh.php?tv=385267
 https://public.iptv18.tech/vallabh.php?tv=385266
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 42 FHD
 https://public.iptv18.tech/vallabh.php?tv=385265
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 43 FHD
+https://public.iptv18.tech/vallabh.php?tv=385264
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 44 FHD
 https://public.iptv18.tech/vallabh.php?tv=385263
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 45 FHD
 https://public.iptv18.tech/vallabh.php?tv=385262
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 46 FHD
 https://public.iptv18.tech/vallabh.php?tv=385261
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 47 FHD
+https://public.iptv18.tech/vallabh.php?tv=385260
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 48 FHD
 https://public.iptv18.tech/vallabh.php?tv=385259
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 49 FHD
 https://public.iptv18.tech/vallabh.php?tv=385258
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=385302
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=385301
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 50 FHD
+https://public.iptv18.tech/vallabh.php?tv=385257
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=385300
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 8 FHD
-https://public.iptv18.tech/vallabh.php?tv=385299
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=385298
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642137
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642129
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642130
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642131
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642132
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642133
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 7 FHD
-https://public.iptv18.tech/vallabh.php?tv=642134
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642135
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ACTION 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=642136
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642148
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 10 FHD
-https://public.iptv18.tech/vallabh.php?tv=642157
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642149
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642150
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 4 FHD
+https://public.iptv18.tech/vallabh.php?tv=642151
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642152
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642153
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642155
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ADVENTURE 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=642156
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642198
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642207
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642199
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642200
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642201
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=642202
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 6 FHD
+https://public.iptv18.tech/vallabh.php?tv=642203
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=642204
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD COMEDY 9 FHD
-https://public.iptv18.tech/vallabh.php?tv=642206
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 1 FHD
-https://public.iptv18.tech/vallabh.php?tv=642158
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=642159
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642167
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642160
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642161
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642163
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=642164
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642165
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD CRIME 9 FHD
 https://public.iptv18.tech/vallabh.php?tv=642166
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DOCUMENTARY 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642265
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DOCUMENTARY 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642266
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DOCUMENTARY 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642267
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DOCUMENTARY 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642268
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DOCUMENTARY 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=642269
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642188
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 10 FHD
@@ -1831,8 +1863,8 @@ https://public.iptv18.tech/vallabh.php?tv=642189
 https://public.iptv18.tech/vallabh.php?tv=642190
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642191
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 7 FHD
-https://public.iptv18.tech/vallabh.php?tv=642194
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 6 FHD
+https://public.iptv18.tech/vallabh.php?tv=642193
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642195
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD DRAMA 9 FHD
@@ -1845,88 +1877,100 @@ https://public.iptv18.tech/vallabh.php?tv=642209
 https://public.iptv18.tech/vallabh.php?tv=642211
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FAMILY 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642212
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FAMILY 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=642213
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FAMILY 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=642214
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FAMILY 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642215
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FAMILY 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=642216
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642238
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 10 FHD
-https://public.iptv18.tech/vallabh.php?tv=642247
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642239
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 4 FHD
-https://public.iptv18.tech/vallabh.php?tv=642241
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642240
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642242
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 7 FHD
-https://public.iptv18.tech/vallabh.php?tv=642244
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 6 FHD
+https://public.iptv18.tech/vallabh.php?tv=642243
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642245
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD FANTASY 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=642246
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642254
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 2 FHD
+https://public.iptv18.tech/vallabh.php?tv=642255
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642256
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642257
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=642258
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HISTORY 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642259
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642178
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642187
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642179
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 4 FHD
-https://public.iptv18.tech/vallabh.php?tv=642181
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642180
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642182
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642183
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 7 FHD
-https://public.iptv18.tech/vallabh.php?tv=642184
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642185
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD HORROR 9 FHD
 https://public.iptv18.tech/vallabh.php?tv=642186
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 1 FHD
-https://public.iptv18.tech/vallabh.php?tv=642248
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=642249
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=642250
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 4 FHD
+https://public.iptv18.tech/vallabh.php?tv=642251
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642252
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD MYSTERY 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=642253
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642168
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642177
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 2 FHD
+https://public.iptv18.tech/vallabh.php?tv=642169
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642170
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642171
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=642173
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=642174
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD ROMANCE 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642175
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642228
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 10 FHD
+https://public.iptv18.tech/vallabh.php?tv=642237
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=642229
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642230
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 4 FHD
-https://public.iptv18.tech/vallabh.php?tv=642231
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=642232
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 6 FHD
-https://public.iptv18.tech/vallabh.php?tv=642233
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 7 FHD
-https://public.iptv18.tech/vallabh.php?tv=642234
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642235
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD SCI-FI 9 FHD
 https://public.iptv18.tech/vallabh.php?tv=642236
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=642138
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 10 FHD
 https://public.iptv18.tech/vallabh.php?tv=642147
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=642139
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=642140
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=642141
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 5 FHD
+https://public.iptv18.tech/vallabh.php?tv=642142
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 6 FHD
+https://public.iptv18.tech/vallabh.php?tv=642143
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 8 FHD
 https://public.iptv18.tech/vallabh.php?tv=642145
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD THRILLER 9 FHD
-https://public.iptv18.tech/vallabh.php?tv=642146
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WAR 1 FHD
-https://public.iptv18.tech/vallabh.php?tv=642260
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WAR 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642262
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WAR 4 FHD
@@ -1935,34 +1979,34 @@ https://public.iptv18.tech/vallabh.php?tv=642263
 https://public.iptv18.tech/vallabh.php?tv=642264
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=642218
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 2 FHD
-https://public.iptv18.tech/vallabh.php?tv=642219
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=642220
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 4 FHD
-https://public.iptv18.tech/vallabh.php?tv=642221
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 6 FHD
 https://public.iptv18.tech/vallabh.php?tv=642223
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 7 FHD
 https://public.iptv18.tech/vallabh.php?tv=642224
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOTSTAR FHD
-https://public.iptv18.tech/vallabh.php?tv=385583
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFILX FHD
-https://public.iptv18.tech/vallabh.php?tv=395916
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 8 FHD
+https://public.iptv18.tech/vallabh.php?tv=642225
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA HOLLYWOOD WESTERNS 9 FHD
+https://public.iptv18.tech/vallabh.php?tv=642226
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA MX FHD
+https://public.iptv18.tech/vallabh.php?tv=385579
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFLIX 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=425740
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFLIX 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=425741
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFLIX 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=425742
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFLIX 4 FHD
 https://public.iptv18.tech/vallabh.php?tv=425743
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA NETFLIX 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=425744
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA TAMIL 2 FHD
+https://public.iptv18.tech/vallabh.php?tv=385188
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA TAMIL 3 FHD
 https://public.iptv18.tech/vallabh.php?tv=385187
-#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA TAMIL 5 FHD
-https://public.iptv18.tech/vallabh.php?tv=385185
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA TAMIL 4 FHD
+https://public.iptv18.tech/zain.php?tv=211242
+#EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA VOOT FHD
+https://public.iptv18.tech/vallabh.php?tv=385581
 #EXTINF:-1 group-title="New Movies" tvg-logo="",CINEMANIA ZEE5 FHD
 https://public.iptv18.tech/vallabh.php?tv=385584
 #EXTINF:-1 group-title="New Movies" tvg-logo="",COLORS TAMIL (malaysia) HD
@@ -2097,10 +2141,16 @@ http://starshare.live:8080/movie/jareer.me ye/jerielnino.me/336206.mp4
 https://public.iptv18.tech/vallabh.php?tv=402957
 #EXTINF:-1 group-title="New Movies" tvg-logo="",EN: BEST OF NEW RELEASE 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=402956
+#EXTINF:-1 group-title="New Movies" tvg-logo="",EN: BEST OF NEW RELEASE 3 FHD
+https://public.iptv18.tech/vallabh.php?tv=402955
 #EXTINF:-1 group-title="New Movies" tvg-logo="",EN: NEW RELEASE 1 FHD (ALL DAY ONE MOVIE)
 https://public.iptv18.tech/vallabh.php?tv=402962
+#EXTINF:-1 group-title="New Movies" tvg-logo="",EN: NEW RELEASE 2 FHD (ALL DAY ONE MOVIE)
+https://public.iptv18.tech/vallabh.php?tv=402961
 #EXTINF:-1 group-title="New Movies" tvg-logo="",EN: NEW RELEASE 3 FHD (ALL DAY ONE MOVIE)
 https://public.iptv18.tech/vallabh.php?tv=402960
+#EXTINF:-1 group-title="New Movies" tvg-logo="",EN: NEW RELEASE 4 FHD (ALL DAY ONE MOVIE)
+https://public.iptv18.tech/vallabh.php?tv=402959
 #EXTINF:-1 group-title="New Movies" tvg-logo="",EN: NEW RELEASE 5 FHD (ALL DAY ONE MOVIE)
 https://public.iptv18.tech/vallabh.php?tv=402958
 #EXTINF:-1 group-title="New Movies" tvg-logo="",ENGEYUM EPPODHUM (2011)
@@ -2147,6 +2197,8 @@ http://Watchindia.net:8880/movie/98697/23119/1081.mkv
 http://Watchindia.net:8880/movie/98697/23119/1854.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",FHD | IPL BATTING CAM
 https://public.iptv18.tech/vallabh.php?tv=713931
+#EXTINF:-1 group-title="New Movies" tvg-logo="",FHD | IPL BIRD EYE CAM
+https://public.iptv18.tech/vallabh.php?tv=662133
 #EXTINF:-1 group-title="New Movies" tvg-logo="",FHD | IPL HANGOUT
 https://public.iptv18.tech/vallabh.php?tv=662111
 #EXTINF:-1 group-title="New Movies" tvg-logo="",FHD | IPL HERO CAM
@@ -2333,8 +2385,6 @@ https://public.iptv18.tech/vallabh.php?tv=726126
 https://public.iptv18.tech/vallabh.php?tv=726129
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | D2H 7S MUSIC
 https://public.iptv18.tech/vallabh.php?tv=192765
-#EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | D2H JOTHI TV
-https://public.iptv18.tech/vallabh.php?tv=192769
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | D2H ZEE THIRAI
 https://public.iptv18.tech/vallabh.php?tv=192774
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | GTA TAMIL TV
@@ -2347,6 +2397,8 @@ https://public.iptv18.tech/vallabh.php?tv=58940
 https://public.iptv18.tech/vallabh.php?tv=58941
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | IBC SILUVAI
 https://public.iptv18.tech/vallabh.php?tv=403887
+#EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | KALAI ISAI
+https://public.iptv18.tech/vallabh.php?tv=404017
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | RASI MOVIES
 https://public.iptv18.tech/vallabh.php?tv=94559
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | RASI TV
@@ -2369,16 +2421,18 @@ https://public.iptv18.tech/vallabh.php?tv=663365
 https://public.iptv18.tech/vallabh.php?tv=663339
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | TS VASANTH TV
 https://public.iptv18.tech/vallabh.php?tv=663325
-#EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | TS ZEE TAMIL SD
-https://public.iptv18.tech/vallabh.php?tv=663316
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN-TM | TS ZEE THIRAI FHD
 https://public.iptv18.tech/vallabh.php?tv=663329
+#EXTINF:-1 group-title="New Movies" tvg-logo="",IN: BEST OF NEW RELEASE 1 FHD
+https://public.iptv18.tech/vallabh.php?tv=385250
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN: BEST OF NEW RELEASE 2 FHD
 https://public.iptv18.tech/vallabh.php?tv=385249
-#EXTINF:-1 group-title="New Movies" tvg-logo="",IN: BEST OF NEW RELEASE 3 FHD
-https://public.iptv18.tech/vallabh.php?tv=385248
 #EXTINF:-1 group-title="New Movies" tvg-logo="",IN: NEW RELEASE 1 FHD (ALL DAY ONE MOVIE)
 https://public.iptv18.tech/vallabh.php?tv=385253
+#EXTINF:-1 group-title="New Movies" tvg-logo="",IN: NEW RELEASE 2 FHD (ALL DAY ONE MOVIE)
+https://public.iptv18.tech/vallabh.php?tv=385252
+#EXTINF:-1 group-title="New Movies" tvg-logo="",IN: NEW RELEASE 3 FHD (ALL DAY ONE MOVIE)
+https://public.iptv18.tech/vallabh.php?tv=385251
 #EXTINF:-1 group-title="New Movies" tvg-logo="",INDRAJEET (1991)
 http://Watchindia.net:8880/movie/98697/23119/1794.mp4
 #EXTINF:-1 group-title="New Movies" tvg-logo="",INGA NAAN THAAN KINGU (2024) (TAMIL)(CAM)
@@ -2473,8 +2527,6 @@ http://Watchindia.net:8880/movie/98697/23119/1936.mkv
 http://Watchindia.net:8880/movie/98697/23119/1811.mp4
 #EXTINF:-1 group-title="New Movies" tvg-logo="",K HD
 http://watchindia.net:8880/live/98697/23119/845.ts
-#EXTINF:-1 group-title="New Movies" tvg-logo="",K TV
-http://ptuf.ridsys.in/riptv/live/stream96/index.m3u8
 #EXTINF:-1 group-title="New Movies" tvg-logo="",K.G.F: CHAPTER 1 (2018)
 http://Watchindia.net:8880/movie/98697/23119/2015.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",KAALA PATTHAR (1979)
@@ -2498,9 +2550,9 @@ http://Watchindia.net:8880/movie/98697/23119/1397.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",KABHI KABHIE (1976)
 http://Watchindia.net:8880/movie/98697/23119/1834.mp4
 #EXTINF:-1 group-title="New Movies" tvg-logo="",KABHI KHUSHI KABHIE GHAM (2001)
-http://Watchindia.net:8880/movie/98697/23119/1878.mkv
-#EXTINF:-1 group-title="New Movies" tvg-logo="",KABHI KHUSHI KABHIE GHAM (2001)
 http://Watchindia.net:8880/movie/98697/23119/1401.mkv
+#EXTINF:-1 group-title="New Movies" tvg-logo="",KABHI KHUSHI KABHIE GHAM (2001)
+http://Watchindia.net:8880/movie/98697/23119/1878.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",KADAKH (2020)
 http://Watchindia.net:8880/movie/98697/23119/2071.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",KADINA KADORAMEE ANDAKADAHAM (2023)
@@ -3390,11 +3442,11 @@ http://watchindia.net:8880/live/98697/23119/847.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUN MUSIC HD
 http://watchindia.net:8880/live/98697/23119/844.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUN TV HD
 http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/158.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUN TV HD
-http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5923.ts
+http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/5922.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUNTV (FHD)
 http://livetvbox.live:8080/live/jareer.me ye/jerielnino.me/23320.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",SUPER SHARANYA (2022)
@@ -3429,6 +3481,8 @@ https://public.iptv18.tech/share.php?id=46743.ts
 https://public.iptv18.tech/share.php?id=28141.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TAMIL: MK TUNES
 https://public.iptv18.tech/share.php?id=37452.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",TAMIL: MK TV
+https://public.iptv18.tech/share.php?id=37451.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TAMIL: MURASU TV
 https://public.iptv18.tech/share.php?id=29086.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TAMIL: NEWS TAMIL 24X7
@@ -3557,10 +3611,12 @@ http://Watchindia.net:8880/movie/98697/23119/1115.mkv
 http://124.29.225.205:8000/play/a047/index.m3u8
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TM: AASTHA TAMIL HD
 https://public.iptv18.tech/share.php?id=5877.ts
-#EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC COMEDY
-https://public.iptv18.tech/share.php?id=5891.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC CANADA HD
+https://public.iptv18.tech/share.php?id=5890.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC COMEDY
 https://public.iptv18.tech/share.php?id=1633.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC COMEDY
+https://public.iptv18.tech/share.php?id=5891.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC MUSIC HD
 https://public.iptv18.tech/share.php?id=5892.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TM: IBC TAMIL HD
@@ -3573,6 +3629,8 @@ https://public.iptv18.tech/share.php?id=5896.ts
 https://public.iptv18.tech/share.php?id=5898.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TM: KTV FHD (IND)
 https://public.iptv18.tech/share.php?id=5899.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",TM: PUTHU YUGAMM TV
+https://public.iptv18.tech/share.php?id=5912.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TOP COOKU DOOP COOKU (TAMIL) E01
 http://103.161.35.195/series/jareer.me%20ye/jerielnino.me/337074.mp4?token=ShJcU0BbQQNHXwZaUgYNWAADUQdUVwIDBVtUVVNQUQsAUQQHAgoCAAcbGBpEF0dcWF1vWQIXXlICVVIAUUgRR0JVRm1aV0EDRw0GDQJQAxsVEkRZC1BGWwBVUwFXVgoGAgAYEENaBxtfGwINAlYNDxscElUeQQETXwMOaAEBRVtSVRYIERFPGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVWBAoPEhwSBVoRD0UQGxVfRnp8ExwWV0tHBlcWUFtWFVkXVEkEEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAlkWWVVE
 #EXTINF:-1 group-title="New Movies" tvg-logo="",TOP COOKU DOOP COOKU (TAMIL) E01
@@ -3674,9 +3732,9 @@ http://Watchindia.net:8880/movie/98697/23119/2349.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",VIDDIKALUDE MAASH (2022)
 http://Watchindia.net:8880/movie/98697/23119/2447.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",VIJAY HD
-http://watchindia.net:8880/live/98697/23119/846.ts
-#EXTINF:-1 group-title="New Movies" tvg-logo="",VIJAY HD
 http://watchindia.net:8880/live/98697/23119/2140.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",VIJAY HD
+http://watchindia.net:8880/live/98697/23119/846.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",VIJAY SUPERUM POURNAMIYUM (2019)
 http://Watchindia.net:8880/movie/98697/23119/1966.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",VIJAYSUPER HD
@@ -3750,9 +3808,9 @@ http://Watchindia.net:8880/movie/98697/23119/1444.mp4
 #EXTINF:-1 group-title="New Movies" tvg-logo="",ZAMEER (1975)
 http://Watchindia.net:8880/movie/98697/23119/1839.mkv
 #EXTINF:-1 group-title="New Movies" tvg-logo="",ZEE TAMIL
-http://flbl1.112421.net:8082/4151884/mpegts?token=KVKPX9W8DU
-#EXTINF:-1 group-title="New Movies" tvg-logo="",ZEE TAMIL
 http://livetvbox.live:8080/live/Jackie/Jackie/225.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",ZEE TAMIL
+http://flbl1.112421.net:8082/4151884/mpegts?token=KVKPX9W8DU
 #EXTINF:-1 group-title="New Movies" tvg-logo="",ZEE TAMIL (FHD)
 http://livetvbox.live:8080/live/Jackie/Jackie/9971.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",ZEE TAMIL HD (USA)
@@ -3768,9 +3826,9 @@ http://51.159.98.86/RiyazMPT/433833/244623?token=GhMNBEZcR1gRUlUBBVYHVgZSV1VWUlx
 #EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD
 http://108.181.123.13:8070/live/T-thornman/2126e132/76969.ts
 #EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD IND watch
-http://lb.watchindia.net:8880/live/98697/23119/843.ts?token=TRINVkBbGwkUAF8EVA4AVg0ADAFaVVsKV1tWUgsGWAdQVlADVgBaAwMSFRIXQxAGWVVmWlwSWABSUEkVTRZcEWlZARUJEQACAgMbHEZDCw5dGgMCDwFUCVRRXAYASRsTX1RHDREACQoOBhscRlIaF11KV1JUbwZdEAoGUhpfVxZaXEkVXF1mV1NdWF4AFVhBCBoVEVFDEhpcDRBbVEkbAV9EF1ZHVhsJFAQNAFEVTkFbV0xdTEIbGlxBLHkaSRsGTkQAWUBaVl0UChtEFxVOQVFLZkFdQxZKAwIIUkpHA0EGEkkVXlJBbFVfV14BVBYKV1ZKEQISURpKQQhYVgxNDERvFV5XEQMRBAcMAFEVHw==
-#EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD IND watch
 http://watchindia.net:8880/live/98697/23119/843.ts
+#EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD IND watch
+http://lb.watchindia.net:8880/live/98697/23119/843.ts?token=TRINVkBbGwkUAF8EVA4AVg0ADAFaVVsKV1tWUgsGWAdQVlADVgBaAwMSFRIXQxAGWVVmWlwSWABSUEkVTRZcEWlZARUJEQACAgMbHEZDCw5dGgMCDwFUCVRRXAYASRsTX1RHDREACQoOBhscRlIaF11KV1JUbwZdEAoGUhpfVxZaXEkVXF1mV1NdWF4AFVhBCBoVEVFDEhpcDRBbVEkbAV9EF1ZHVhsJFAQNAFEVTkFbV0xdTEIbGlxBLHkaSRsGTkQAWUBaVl0UChtEFxVOQVFLZkFdQxZKAwIIUkpHA0EGEkkVXlJBbFVfV14BVBYKV1ZKEQISURpKQQhYVgxNDERvFV5XEQMRBAcMAFEVHw==
 #EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD USA watch
 http://us-e1.watchindia.net:8880/live/98697/23119/2089.ts?token=TRINVkBbGwkUVgkEVgMBUw1cAVULAFAMXgZdU1xXDFcOBVMBUlcOBQYSFRIXQxAGWVVmWlwSWApWW1wbGhBKBkRvDFMRCRsKBwQKEkgVFgpVXRsJCQdTDldRUw4LUhVBRlkBFQkRCwQOCAwFXRVOQV1ATVZKXgNUOQcAQVEGXEEMXhBbXx8bXFhvXVUJVgwHGgIbAxocQFEVE0cNVhBVDxoSB15HQVhHUxIDElEEUFsaFBtQV0UMTBQaRw0aLHdBGhIAT0dWV0BfX1cSXhUWEBoUG1pLbxBdFRcXUlkIXBEUCkcHER8bXldIZlMLWQwGW0xQXFZDQAJEUEcbGghWDV9ECkVsQ1BXFAobAlUAWlsPCxtO
 #EXTINF:-1 group-title="New Movies" tvg-logo="",சன்.டிவி SUN HD USA watch
@@ -3843,6 +3901,8 @@ https://public.iptv18.tech/share.php?id=66162.ts
 https://public.iptv18.tech/share.php?id=66163.ts
 #EXTINF:-1 group-title="STAR-KIDS" tvg-logo="",TAMIL: POGO
 https://public.iptv18.tech/share.php?id=66165.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL : SRI SANKARA TV
+https://public.iptv18.tech/share.php?id=153205.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: CHUTTI TV
 https://public.iptv18.tech/share.php?id=85931.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: D TAMIL
@@ -3853,26 +3913,36 @@ https://public.iptv18.tech/share.php?id=26165.ts
 https://public.iptv18.tech/share.php?id=98893.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: KTV (FHD)
 https://public.iptv18.tech/share.php?id=23318.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: MEGA 24
+https://public.iptv18.tech/share.php?id=26163.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Mega_Musiq.jpeg/revision/latest/scale-to-width-down/250?cb=20191224093201",TAMIL: MEGA MUSIQ
 https://public.iptv18.tech/share.php?id=26164.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: SATHIYAM TV NEWS
 https://public.iptv18.tech/share.php?id=256457.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: SUNTV (4K).
 https://public.iptv18.tech/share.php?id=98899.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: SUNTV (FHD)
+https://public.iptv18.tech/share.php?id=23320.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",TAMIL: THANTHI TV
 https://public.iptv18.tech/share.php?id=111034.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TAMIL: TRAVEL XP
 https://public.iptv18.tech/share.php?id=9972.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: ANGEL TV HD
-https://public.iptv18.tech/share.php?id=5881.ts
-#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: ANGEL TV HD
 https://public.iptv18.tech/share.php?id=189.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: ANGEL TV HD
+https://public.iptv18.tech/share.php?id=5882.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: ANGEL TV HD
 https://public.iptv18.tech/share.php?id=5883.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: ANGEL TV HD
+https://public.iptv18.tech/share.php?id=5881.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: DD PODHIGAI
 https://public.iptv18.tech/share.php?id=5887.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: JAYA MAX
+https://public.iptv18.tech/share.php?id=240.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: JAYA PLUS
 https://public.iptv18.tech/share.php?id=1615.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/ktv-HD-white.png",TM: KTV HD
+https://public.iptv18.tech/share.php?id=5900.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: KTV HD
 https://public.iptv18.tech/share.php?id=160.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: MADHA TV
@@ -3888,43 +3958,55 @@ https://public.iptv18.tech/share.php?id=5908.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: PEPPERS TV
 https://public.iptv18.tech/share.php?id=5909.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: POLIMER NEWS
-https://public.iptv18.tech/share.php?id=237.ts
-#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: POLIMER NEWS
 https://public.iptv18.tech/share.php?id=5911.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: POLIMER NEWS
+https://public.iptv18.tech/share.php?id=237.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: POLIMER TV
 https://public.iptv18.tech/share.php?id=1617.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: PUTHIYA THALAIMURAI TV HD
 https://public.iptv18.tech/share.php?id=5910.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635",TM: RAJ DIGITAL PLUS
 https://public.iptv18.tech/share.php?id=1616.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png",TM: RAJ TV
+https://public.iptv18.tech/share.php?id=1619.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Raj_TV_Tamil.png",TM: RAJ TV HD
 https://public.iptv18.tech/share.php?id=5913.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg",TM: SIRIPPOLI TV
 https://public.iptv18.tech/share.php?id=5932.ts
-#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
-https://public.iptv18.tech/share.php?id=5915.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU",TM: SONY BBC EARTH HD
+https://public.iptv18.tech/share.php?id=222.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
 https://public.iptv18.tech/share.php?id=157.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: STAR VIJAY HD
+https://public.iptv18.tech/share.php?id=5915.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN LIFE
 https://public.iptv18.tech/share.php?id=1612.ts
-#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png",TM: SUN LIFE HD
-https://public.iptv18.tech/share.php?id=5919.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN LIFE HD
 https://public.iptv18.tech/share.php?id=5918.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="http://2.bp.blogspot.com/-UhBQgmp7gyI/UCkbz25X2OI/AAAAAAAAA70/DbPoAqxWOB4/s1600/sun_life_manisat_com.png",TM: SUN LIFE HD
+https://public.iptv18.tech/share.php?id=5919.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN MUSIC HD
 https://public.iptv18.tech/share.php?id=159.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN MUSIC HD VIP (USA)
 https://public.iptv18.tech/share.php?id=5920.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN NEWS
+https://public.iptv18.tech/share.php?id=5924.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://seeklogo.com/images/S/sun-news-logo-107E32491A-seeklogo.com.png",TM: SUN NEWS
 https://public.iptv18.tech/share.php?id=1613.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN TV HD
-https://public.iptv18.tech/share.php?id=5922.ts
-#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN TV HD
 https://public.iptv18.tech/share.php?id=158.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN TV HD
+https://public.iptv18.tech/share.php?id=5921.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN TV HD
+https://public.iptv18.tech/share.php?id=5922.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="",TM: SUN TV HD
 https://public.iptv18.tech/share.php?id=5923.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://w7.pngwing.com/pngs/191/1020/png-transparent-vendhar-tv-television-channel-tamil-streaming-media-others-television-orange-logo.png",TM: VENDHAR TV
 https://public.iptv18.tech/share.php?id=1624.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",TM: VENDHAR TV HD
+https://public.iptv18.tech/share.php?id=5931.ts
+#EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047",TM: VIJAY SUPER HD
+https://public.iptv18.tech/share.php?id=1614.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233",TM: VIJAY TV HD
 https://public.iptv18.tech/share.php?id=1634.ts
 #EXTINF:-1 group-title="STAR-TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png",TM: ZEE TAMIL
@@ -3949,18 +4031,18 @@ http://Watchindia.net:8880/live/98697/23119/849.ts
 http://Watchindia.net:8880/live/98697/23119/850.ts
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Jaya_TV_HD.png",JAYA TV HD
 http://Watchindia.net:8880/live/98697/23119/851.ts
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_143300340622294627715724.png",KALAIGNAR TV
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Kalaignar_TV.png",KALAIGNAR TV
 http://Watchindia.net:8880/live/98697/23119/2148.ts
+#EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_143300340622294627715724.png",KALAIGNAR TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png",KTV HD
 http://Watchindia.net:8880/live/98697/23119/845.ts
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Madha_TV.png",MADHA TV
 http://Watchindia.net:8880/live/98697/23119/875.ts
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",MAKKAL TV
-http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Makkal_TV.png",MAKKAL TV
 http://Watchindia.net:8880/live/98697/23119/871.ts
+#EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",MAKKAL TV
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Murasu_TV.png",MURASU TV
 http://Watchindia.net:8880/live/98697/23119/880.ts
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Nambikkai_TV.png",NAMBIKKAI TV
