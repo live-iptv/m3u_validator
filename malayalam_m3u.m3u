@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rpg0bQA.png",C Malayalam TV (1080p)
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WdSjlPl.png",Amrita TV (720p)
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/vpoiA6i.png",Flowers TV (576p)
@@ -15,6 +13,8 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4ss0KfA.png",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (1080p)
@@ -25,6 +25,8 @@ https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/zIXsuC2.png",CD News (576p)
 https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qelJwNi.png",Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/NMDqooF.png",Janam TV (720p)
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8hnJuxa.png",Real News Kerala (1080p) [Not 24/7]
@@ -33,8 +35,6 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvXCjha.png",VBC News (576p)
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MC6edvH.jpg",Venad News (360p)
-https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/srOoujm.png",Grace Family TV (720p)
 https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Aoq6mpT.png",Harvest TV (720p)
