@@ -89,7 +89,6 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/manisat30/Sat/main/DSC.m3u',
         'https://raw.githubusercontent.com/suvisnimpraven/suvisnimpraven.github.io/main/suresh.m3u8',
         'https://iptv-org.github.io/iptv/languages/tam.m3u',
-        'https://live-iptv.github.io/iptv/tamil/tamil_movies.m3u',
         'https://live-iptv.github.io/iptv/tamil/tamil_local_copy.m3u'
     ]
     fix_m3u_from_url(m3u_urls)

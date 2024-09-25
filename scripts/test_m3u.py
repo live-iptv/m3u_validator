@@ -59,13 +59,13 @@ def fix_m3u_from_url(urls):
         unique_entries = [dict(entry) for entry in unique_entries]
 
         # Verify if URLs are reachable concurrently
-        reachable_entries = []
-        with ThreadPoolExecutor(max_workers=15) as executor:
-            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
-            for future in as_completed(future_to_entry):
-                result = future.result()
-                if result is not None:
-                    reachable_entries.append(result)
+        reachable_entries = unique_entries
+        # with ThreadPoolExecutor(max_workers=15) as executor:
+        #     future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
+        #     for future in as_completed(future_to_entry):
+        #         result = future.result()
+        #         if result is not None:
+        #             reachable_entries.append(result)
 
         # Sort entries based on group title
         sorted_entries = sorted(reachable_entries, key=lambda x: x['name'])
