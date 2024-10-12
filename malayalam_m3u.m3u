@@ -15,6 +15,8 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LrHGfdC.png",Asianet News (360p)
@@ -45,8 +47,6 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (720p)
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/dSOfYyh.png",Safari TV (480p) [Not 24/7]
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/RgDkXcj/N-VISION.png",N Vision
 https://ipcloud.live/nvision/nvisionhd.m3u8
