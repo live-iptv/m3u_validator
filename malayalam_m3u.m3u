@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rpg0bQA.png",C Malayalam TV (1080p)
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/KnbwUyb.png",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/kj4OEsb.png",KITE Victers (Kerala) (720p) [Not 24/7]
@@ -17,10 +15,8 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4ss0KfA.png",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png",Starnet (480p)
-https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV (720p) [Not 24/7]
-https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pdBo8Xb.png",Gosree Vision (576p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (1080p)
 http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LrHGfdC.png",Asianet News (360p)
@@ -31,6 +27,8 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvXCjha.png",VBC News (576p)
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MC6edvH.jpg",Venad News (360p)
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Aoq6mpT.png",Harvest TV (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/1DyPuIt.png",Harvest TV Keralam (720p)
