@@ -19,6 +19,8 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (1080p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LrHGfdC.png",Asianet News (360p)
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qelJwNi.png",Eagle One News (576p)
@@ -37,6 +39,8 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Yx0AnLW.png",Potta-Divine TV USA (480p)
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD [Geo-blocked]
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1dHarb7.png",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (720p)
@@ -44,7 +48,3 @@ https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/dSOfYyh.png",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/RgDkXcj/N-VISION.png",N Vision
-https://ipcloud.live/nvision/nvisionhd.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/5vFt5z8/sky-music.png",Sky music
-https://ipcloud.live/nvision/skymusic.m3u8
