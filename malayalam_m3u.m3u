@@ -21,10 +21,14 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LrHGfdC.png",Asianet News (360p)
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qelJwNi.png",Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8hnJuxa.png",Real News Kerala (1080p) [Not 24/7]
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eS2fVDh.png",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvXCjha.png",VBC News (576p)
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MC6edvH.jpg",Venad News (360p)
 https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Aoq6mpT.png",Harvest TV (720p)
@@ -33,8 +37,6 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/Yx0AnLW.png",Potta-Divine TV USA (480p)
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star Sports 1 HD [Geo-blocked]
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1dHarb7.png",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (720p)
