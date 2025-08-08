@@ -109,6 +109,8 @@ http://account10.livebox.co.in/enewstvnoonechannelomsairamhls/live.m3u8
 https://account19.livebox.co.in/mmtvhls/live.m3u8
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://tnm3u.live/icon/kannada/local/powertv.png",Power Tv
 https://powertvkannada.com/hls/stream.m3u8
+#EXTINF:-1 group-title="Kannada" tvg-logo="http://tnm3u.live/icon/kannada/local/satyamtv.png",Satyam Tv
+http://account31.livebox.co.in/satyamtvhls/live.m3u8
 #EXTINF:-1 group-title="Kannada" tvg-logo="http://tnm3u.live/icon/kannada/local/v4news.png",V4 News
 https://playbackdigitalmedia.livebox.co.in/v4hls/live.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.ibb.co/W3RLQ96/AKASH-TV.png",AKASH TV
@@ -151,6 +153,8 @@ http://notvstream.in/rrtv/rrtv.m3u8
 https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_150140314905777125097688.png",Tianaa Music Tv
 http://rott.ridsys.in/riptv/live/stream29/index.m3u8
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/2DfvMKf.png",Vidiyal Tv
+https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706507510.png",Vishil HD tv
 https://stream.sscloud7.in/live/vishiltv1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1706507435.png",Vishil2 tv
@@ -233,8 +237,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2020/09/Samugam-TV.png",Samugam TV
 https://ca.streamjo.com/live/samugam.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/d1Zp4iW.png",Thanthi TV
-https://live-iptv.github.io/youtube_live/assets/info.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://7startv.in/astv.png",Aasirvadham TV
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GlfrYs7.png",Blessing TV Tamil (720p)
@@ -255,6 +257,8 @@ https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
 http://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnlhYWwuVmlubWVlbk11c2ljX3NjcmVlbl81XzE1NzgxNjMyMTZfMDU0/screen-5.jpg?fakeurl=1&type=.jpg",Vinmeen TV
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/f56sWGrWUV1yj6dslEbjuQ2aNlHusiyTm4gYrm4AFHTvE5lB7b1BI2mi0Y-bISn_eOdM=w480-h960-rw",Aarya TV
 https://live.skystream.in/live/aaryatv/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png",ISAI SARAL TV
