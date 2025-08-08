@@ -3,20 +3,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def fix_m3u_from_url(urls):
     def fetch_json_content(url):
+        headers = {
+        'Accept': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
+    }
         try:
-            response = requests.get(url, timeout=10)
+            response = requests.get(url, headers=headers, timeout=10)
             if response.status_code == 200:
-                return response.json()  # Parse as JSON
-        except (requests.RequestException, ValueError):
+                return response.json()
+        except (requests.RequestException, ValueError) as e:
             pass
         return None
 
     def is_url_reachable(entry):
         try:
-            # Skip RTMP URLs as HEAD requests don't work well with them
-            if entry['url'].startswith('rtmp://'):
-                return entry
-                
             url_response = requests.head(entry['url'], timeout=10, allow_redirects=True)
             if url_response.status_code in (200, 301, 302):
                 return entry
@@ -26,26 +26,26 @@ def fix_m3u_from_url(urls):
 
     def process_json_content(json_data):
         entries = []
-        
+
         for category in json_data:
-            group_title = category['label']
-            for channel in category['channels']:
+            group_title = category.get('label', 'Unknown Group')
+            for channel in category.get('channels', []):
                 entry = {
                     'group_title': group_title,
                     'tvg_logo': channel.get('logo', ''),
                     'name': channel.get('name', channel.get('title', 'Unknown')),
-                    'url': channel['url']
+                    'url': channel.get('url', '')
                 }
                 entries.append(entry)
-        
+
         # Remove duplicates by URL
         unique_entries = []
         seen_urls = set()
         for entry in entries:
-            if entry['url'] not in seen_urls:
+            if entry['url'] not in seen_urls and entry['url']:
                 unique_entries.append(entry)
                 seen_urls.add(entry['url'])
-        
+
         # Verify if URLs are reachable concurrently
         reachable_entries = []
         with ThreadPoolExecutor(max_workers=20) as executor:
@@ -56,8 +56,7 @@ def fix_m3u_from_url(urls):
                     reachable_entries.append(result)
 
         # Sort entries by group title and then by name
-        sorted_entries = sorted(reachable_entries, key=lambda x: x['name'])
-        sorted_entries = sorted(sorted_entries, key=lambda x: x['group_title'])
+        sorted_entries = sorted(reachable_entries, key=lambda x: (x['group_title'], x['name']))
 
         # Generate M3U content
         m3u_content = ['#EXTM3U']
