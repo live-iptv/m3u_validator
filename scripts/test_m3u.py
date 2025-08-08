@@ -28,6 +28,7 @@ def fix_m3u_from_url(urls):
         entries = []
         current_entry = None
         seen_urls = set()  # To track unique URLs
+        seen_urls.add("https://live-iptv.github.io/youtube_live/assets/info.m3u8")
 
         for line in lines:
             if line.startswith('#EXTINF:-1'):
