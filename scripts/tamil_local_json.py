@@ -1,105 +1,91 @@
 import requests
-import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-def create_m3u_from_json(json_url, output_file='output.m3u'):
-    try:
-        # Fetch the JSON data with error handling
-        response = requests.get(json_url, timeout=10)
-        response.raise_for_status()
-        
+SKIP_URLS = {
+    "https://live-iptv.github.io/youtube_live/assets/info.m3u8"
+}
+
+def fix_m3u_from_url(urls):
+    def fetch_json_content(url):
         try:
-            data = response.json()
-        except json.JSONDecodeError:
-            print("Error: Failed to decode JSON response")
-            return False
+            response = requests.get(url, timeout=10)
+            if response.status_code == 200:
+                return response.json()
+        except requests.RequestException:
+            pass
+        return None
 
-        # URLs to skip
-        skip_urls = {
-            "https://live-iptv.github.io/youtube_live/assets/info.m3u8",
-            # Add more URLs to skip here if needed
-        }
+    def is_url_reachable(entry):
+        try:
+            if entry['url'].startswith("rtmp://"):
+                return entry  # Skip checking RTMP; assume reachable
+            head = requests.head(entry['url'], timeout=10, allow_redirects=True)
+            if head.status_code == 200:
+                return entry
+        except requests.RequestException:
+            pass
+        return None
 
-        def is_url_valid(url):
-            """Check if URL is valid and reachable"""
-            if url in skip_urls:
-                return False
-            try:
-                # Use HEAD request for faster validation
-                resp = requests.head(url, timeout=5, allow_redirects=True)
-                return resp.status_code == 200
-            except requests.RequestException:
-                return False
+    def process_json(json_data):
+        entries = []
+        seen_urls = set()
 
-        # Process channels concurrently for better performance
-        def process_channel(channel):
-            name = channel.get('name', 'Unknown')
-            logo = channel.get('logo', '')
-            url = channel.get('url', '')
-            
-            if not url or url in skip_urls:
-                return None
-            
-            return {
-                'name': name,
-                'logo': logo,
-                'url': url,
-                'group': channel.get('category', 'Unknown')
-            }
+        for group in json_data:
+            group_title = group.get('label', 'Others')
+            for channel in group.get('channels', []):
+                url = channel.get('url', '').strip()
+                if not url or url in seen_urls or url in SKIP_URLS:
+                    continue
 
-        valid_channels = []
+                entry = {
+                    'group_title': channel.get('category', group_title),
+                    'tvg_logo': channel.get('logo', ''),
+                    'name': channel.get('name') or channel.get('title', 'No Name'),
+                    'url': url
+                }
+
+                seen_urls.add(url)
+                entries.append(entry)
+
+        return entries
+
+    for url in urls:
+        json_content = fetch_json_content(url)
+        if not json_content:
+            continue
+
+        entries = process_json(json_content)
+
+        # Check reachability
+        reachable_entries = []
         with ThreadPoolExecutor(max_workers=20) as executor:
-            # First process all channels to extract data
-            futures = []
-            for category in data:
-                for channel in category.get('channels', []):
-                    futures.append(executor.submit(process_channel, channel))
-            
-            # Then validate URLs in parallel
-            url_validation_futures = []
-            for future in as_completed(futures):
-                channel = future.result()
-                if channel:
-                    url_validation_futures.append(
-                        executor.submit(is_url_valid, channel['url'])
-                    )
-                    valid_channels.append(channel)
-            
-            # Filter out invalid URLs
-            for i, future in enumerate(as_completed(url_validation_futures)):
-                if not future.result():
-                    valid_channels[i]['url'] = None
+            future_to_entry = {
+                executor.submit(is_url_reachable, entry): entry for entry in entries
+            }
+            for future in as_completed(future_to_entry):
+                result = future.result()
+                if result:
+                    reachable_entries.append(result)
 
-        # Filter out channels with invalid URLs
-        valid_channels = [c for c in valid_channels if c['url']]
+        # Sort entries
+        sorted_entries = sorted(
+            reachable_entries,
+            key=lambda x: (x['group_title'].lower(), x['name'].lower())
+        )
 
-        # Group channels by category
-        grouped_channels = {}
-        for channel in valid_channels:
-            grouped_channels.setdefault(channel['group'], []).append(channel)
+        # Build M3U content
+        m3u_lines = ['#EXTM3U']
+        for entry in sorted_entries:
+            m3u_lines.append(
+                f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}'
+            )
+            m3u_lines.append(entry['url'])
 
-        # Create the M3U file
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write('#EXTM3U\n')
-            
-            for group, channels in grouped_channels.items():
-                for channel in sorted(channels, key=lambda x: x['name']):
-                    f.write(f'#EXTINF:-1 group-title="{group}" tvg-logo="{channel["logo"]}",{channel["name"]}\n')
-                    f.write(f'{channel["url"]}\n')
+        m3u_output = '\n'.join(m3u_lines)
+        print(m3u_output)
 
-        print(f"Successfully created M3U with {len(valid_channels)} valid channels")
-        return True
-
-    except requests.exceptions.RequestException as e:
-        print(f"Error: Failed to fetch data from API - {str(e)}")
-        return False
-    except Exception as e:
-        print(f"Error: An unexpected error occurred - {str(e)}")
-        return False
-
-# URL of the JSON data
-json_url = 'https://tavapi.inditechman.com/api/tamiltvapp.json'
-
-# Create the M3U file (only if API request succeeds)
-if not create_m3u_from_json(json_url):
-    print("Skipping M3U file creation due to errors")
+if __name__ == "__main__":
+    m3u_urls = [
+        'https://tavapi.inditechman.com/api/tamiltvapp.json'
+    ]
+    fix_m3u_from_url(m3u_urls)
