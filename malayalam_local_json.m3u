@@ -1,35 +1,83 @@
 #EXTM3U
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/ajnet.png",AJ Net
-http://stream.logichost.in:1935/AJNET/live/chunklist_w1891201465.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/anandtv.png",Anand Tv
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/vision_1.png",City Vision
-https://live.skystream.in/live/citykannurcity/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/drishyatv.png",Drishya Tv
-https://live.skystream.in/live/drishya5060/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/drisyatv.png",Drisya Tv
-https://live.skystream.in/live/drishyakarunagapally/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/harvesttv.png",Harvest Tv
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/keralatoday.png",Kerala Today
-https://live.skystream.in/live/krlatoday/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/magnavision.png",Magna Vision
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/fYYvcS0W/1000122488.jpg",24 News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/1G3Jmrty/1000121852.jpg",AJ Net
+http://stream.logichost.in:1935/AJNET/live/chunklist_w1099842082.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/Dg52rxV2/1000140225.jpg",Asianet Plus
+http://89.187.189.98/ASIANETPLUS/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/Lzd8qD8J/1000121865.jpg",Balatara Vision
+http://cloud.logichost.in:1935/BALATARA/live/chunklist_w556851226.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/DDRgFWPY/1000122489.jpg",C Malayalam Tv
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/7NCF1pS7/1000139770.jpg",CCTV Kunnamkulam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/7JZmwkc1/1000123272.jpg",Fox Tv
+http://103.118.151.130:11037/hls/fox.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/q3dgj8K0/1000122483.jpg",Garshom Tv
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/fdYmsD8V/1000122526.jpg",KC Vision
+http://111.92.41.129:11037/hls/kv.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/230fBYpC/1000121868.jpg",KCL
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/mr4CtGK3/1000121466.jpg",KCN HD
+http://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/V01PjjbM/1000139773.png",KVTV
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/DdC5c35/1000122549.png",Kannur Vision
+http://stream.logichost.in:1935/kannurvision/live/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/1YnYjrm4/1000121297.jpg",MCV Channel
+http://cloud.logichost.in:1935/live/mcvlive/chunklist_w141497558.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/xtmVfHdW/1000122479.jpg",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/malabar.png",Malabar Channel
-http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1846101039.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/malabarplus.png",Malabar Plus
-http://cloud.logichost.in:1935/live/mplus/chunklist_w1870583417.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/mediatoday.png",Media Today
-https://live.skystream.in/live/mediatday/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/nvnchannel.png",New Vision
-https://live.skystream.in/live/newvision2924/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/onetv.png",One Tv
-http://rtmp.logichost.in:1935/live/onetv/chunklist_w1871227305.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/starnet.png",Starnet
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/d0mb2sgY/1000121310.jpg",Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1073688293.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/RTC4yJn9/1000121317.jpg",Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/chunklist_w380881802.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/xKFNBXCP/1000140229.jpg",Media One
+http://89.187.189.98/MEDIAONE/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/5Wr3H5zX/bb574b993d1d.jpg",N  Media
+https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/WN5N7KnG/1000139771.jpg",N Tv
+https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/qYw9v6fx/1000121414.jpg",One Tv Local
+http://rtmp.logichost.in:1935/live/onetv/chunklist_w1554463648.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/60tqyTR2/1000121468.jpg",PTA News
+http://cloud.logichost.in:1935/PTA/live/chunklist_w508578235.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/5WfHsPr2/1000139778.jpg",Pravasi Tv
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/k6wXWXtV/1000140222.jpg",Raj Musix Malayalam
+http://89.187.189.98/RAJMUSICMALAYALAM/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/G35tYhkd/1000122562.jpg",Reporter
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/ZRj1vTrF/1000120396.jpg",South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/ycqV2hSB/1000122494.jpg",Star Net
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/tcn.png",TCN Tv
-https://live.skystream.in/live/tcn8909/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/thanimatvtvm.png",Thanima Tv
-https://live.skystream.in/live/thanimatvtvm/index.m3u8
-#EXTINF:-1 group-title="Malayalam" tvg-logo="http://tnm3u.live/icon/malayalam/local/vision.png",Vision Tv
-http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1809322353.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/rfvdwsdV/1000140224.jpg",Surya Movies
+http://89.187.189.98/SURYAMOVIES/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/9H0vgYxM/1000140220.jpg",Surya Music
+http://89.187.189.98/SURYAMUSIC/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/ynqbMTXB/1000139026.jpg",Surya Tv
+http://195.181.169.162/SURYA_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/9HnKDrtf/1000121277.jpg",Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/chunklist_w1753452838.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/7tS0wpSq/1000121418.jpg",TCN Entertainments
+http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/JWVTVBqs/1000137330.jpg",Teak Vision HD
+https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/twnrWP6R/1000122573.jpg",UTV Malayalam
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/k6gdLdhn/1000122492.jpg",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/23JRgJRR/1000122511.jpg",VCV Tv
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/YBc5b5bJ/3669.jpg",Vibgyor
+https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/xSxVC7fz/1000121291.jpg",Vision Kerala
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/60J5nv9N/1000121431.jpg",Vision Media
+http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1236262378.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/RKC56Ff/1000132909.jpg",We One Tv
+http://stream.logichost.in:1935/WEONE/live/chunklist_w617388636.m3u8
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.ibb.co/tMRvdZBM/1000122547.jpg",Weone News
+http://103.118.151.130:11037/hls/we.m3u8
