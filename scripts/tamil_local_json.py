@@ -4,14 +4,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 def fix_m3u_from_url(urls):
     def fetch_json_content(url):
         headers = {
-            'Accept': 'application/json',
-            'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
-        }
+        'Accept': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
+    }
         try:
             response = requests.get(url, headers=headers, timeout=10)
             if response.status_code == 200:
                 return response.json()
-        except (requests.RequestException, ValueError):
+        except (requests.RequestException, ValueError) as e:
             pass
         return None
 
@@ -29,10 +29,6 @@ def fix_m3u_from_url(urls):
 
         for category in json_data:
             group_title = category.get('label', 'Unknown Group')
-            
-            if group_title == "Malayalam":
-                continue
-
             for channel in category.get('channels', []):
                 url = channel.get('url', '')
                 # Skip this specific URL
@@ -45,8 +41,6 @@ def fix_m3u_from_url(urls):
                     'url': url
                 }
                 entries.append(entry)
-
-            break
 
         # Remove duplicates by URL
         unique_entries = []
@@ -65,8 +59,8 @@ def fix_m3u_from_url(urls):
                 if result is not None:
                     reachable_entries.append(result)
 
-        # Sort entries by name (since group_title is the same)
-        sorted_entries = sorted(reachable_entries, key=lambda x: x['name'])
+        # Sort entries by group title and then by name
+        sorted_entries = sorted(reachable_entries, key=lambda x: (x['group_title'], x['name']))
 
         # Generate M3U content
         m3u_content = ['#EXTM3U']
