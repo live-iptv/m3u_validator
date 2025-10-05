@@ -30,7 +30,8 @@ def fix_m3u_from_url(urls):
         for category in json_data:
             group_title = category.get('label', 'Unknown Group')
             
-            if group_title == "Malayalam":
+            # ✅ Only process if the group title is "Malayalam"
+            if group_title != "Malayalam":
                 continue
 
             for channel in category.get('channels', []):
@@ -46,6 +47,7 @@ def fix_m3u_from_url(urls):
                 }
                 entries.append(entry)
 
+            # ✅ Break after processing Malayalam group only (assuming only one exists)
             break
 
         # Remove duplicates by URL
