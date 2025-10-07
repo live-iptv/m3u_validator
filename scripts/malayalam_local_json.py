@@ -40,7 +40,7 @@ def fix_m3u_from_url(urls):
                 if url == "https://live-iptv.github.io/youtube_live/assets/info.m3u8":
                     continue
                 entry = {
-                    'group_title': group_title,
+                    'group_title': 'Entertainment',
                     'tvg_logo': channel.get('logo', ''),
                     'name': channel.get('name', channel.get('title', 'Unknown')),
                     'url': url
