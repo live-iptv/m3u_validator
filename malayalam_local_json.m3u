@@ -13,6 +13,8 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/vvQY4QGG/1000137237.jpg",CCV Tv
 https://5a1178b42cc03.streamlock.net/8212/8212/chunklist_w887200395.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/7JZmwkc1/1000123272.jpg",Fox Tv
+http://103.118.151.130:11037/hls/fox.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/q3dgj8K0/1000122483.jpg",Garshom Tv
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/fdYmsD8V/1000122526.jpg",KC Vision
@@ -41,8 +43,6 @@ https://live.skystream.in/live/newmedia2924/index.m3u8?hls_ctx=4483yu96
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/qYw9v6fx/1000121414.jpg",One Tv Local
 http://rtmp.logichost.in:1935/live/onetv/chunklist_w1554463648.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/60tqyTR2/1000121468.jpg",PTA News
-http://cloud.logichost.in:1935/PTA/live/chunklist_w508578235.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5WfHsPr2/1000139778.jpg",Pravasi Tv
 https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/k6wXWXtV/1000140222.jpg",Raj Musix Malayalam
@@ -53,6 +53,8 @@ https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 https://live.skystream.in/live/southvsnklm/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/ycqV2hSB/1000122494.jpg",Star Net
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/rfvdwsdV/1000140224.jpg",Surya Movies
+http://89.187.189.98/SURYAMOVIES/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/9H0vgYxM/1000140220.jpg",Surya Music
 http://89.187.189.98/SURYAMUSIC/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/ynqbMTXB/1000139026.jpg",Surya Tv
