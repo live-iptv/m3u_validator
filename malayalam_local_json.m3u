@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/fYYvcS0W/1000122488.jpg",24 News
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/1G3Jmrty/1000121852.jpg",AJ Net
-http://stream.logichost.in:1935/AJNET/live/chunklist_w1099842082.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Lzd8qD8J/1000121865.jpg",Balatara Vision
 http://cloud.logichost.in:1935/BALATARA/live/chunklist_w556851226.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/DDRgFWPY/1000122489.jpg",C Malayalam Tv
@@ -57,6 +55,8 @@ http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
 https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/twnrWP6R/1000122573.jpg",UTV Malayalam
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/k6gdLdhn/1000122492.jpg",VBC News
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/23JRgJRR/1000122511.jpg",VCV Tv
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/YBc5b5bJ/3669.jpg",Vibgyor
