@@ -26,23 +26,28 @@ def fix_m3u_from_url(urls):
 
     def process_json_content(json_data):
         entries = []
-        skip_categories = {"Malayalam", "Telugu", "Kannada"}  # Skip these
+        skip_categories = {"Malayalam", "Telugu", "Kannada"}  # Categories to skip
 
         for category in json_data:
-            group_title = category.get('label', 'Unknown Group')
-            category_name = category.get('category', '').strip()
+            group_label = category.get('label', '').strip()
 
-            # Skip unwanted categories
-            if category_name in skip_categories:
+            # Skip if the top-level label itself is unwanted
+            if group_label in skip_categories:
                 continue
 
             for channel in category.get('channels', []):
+                channel_category = channel.get('category', '').strip()
+
+                # Skip if the channel’s category is unwanted
+                if channel_category in skip_categories:
+                    continue
+
                 url = channel.get('url', '')
                 if url == "https://live-iptv.github.io/youtube_live/assets/info.m3u8":
                     continue
 
                 entry = {
-                    'group_title': group_title,
+                    'group_title': group_label or channel_category or 'Unknown Group',
                     'tvg_logo': channel.get('logo', ''),
                     'name': channel.get('name', channel.get('title', 'Unknown')),
                     'url': url
