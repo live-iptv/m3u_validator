@@ -26,28 +26,25 @@ def fix_m3u_from_url(urls):
 
     def process_json_content(json_data):
         entries = []
-        skip_categories = {"Malayalam", "Telugu", "Kannada"}  # Categories to skip
+        skip_categories = {"Malayalam", "Telugu", "Kannada"}
 
         for category in json_data:
-            group_label = category.get('label', '').strip()
-
-            # Skip if the top-level label itself is unwanted
-            if group_label in skip_categories:
-                continue
+            group_title = category.get('label', 'Unknown Group')
 
             for channel in category.get('channels', []):
-                channel_category = channel.get('category', '').strip()
+                cat = channel.get('category', '').strip()
 
-                # Skip if the channel’s category is unwanted
-                if channel_category in skip_categories:
+                # Skip unwanted categories
+                if cat in skip_categories:
                     continue
 
                 url = channel.get('url', '')
+                # Skip this specific URL
                 if url == "https://live-iptv.github.io/youtube_live/assets/info.m3u8":
                     continue
 
                 entry = {
-                    'group_title': group_label or channel_category or 'Unknown Group',
+                    'group_title': group_title,
                     'tvg_logo': channel.get('logo', ''),
                     'name': channel.get('name', channel.get('title', 'Unknown')),
                     'url': url
@@ -62,7 +59,7 @@ def fix_m3u_from_url(urls):
                 unique_entries.append(entry)
                 seen_urls.add(entry['url'])
 
-        # Verify if URLs are reachable concurrently
+        # Verify reachable URLs concurrently
         reachable_entries = []
         with ThreadPoolExecutor(max_workers=20) as executor:
             future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
@@ -71,7 +68,7 @@ def fix_m3u_from_url(urls):
                 if result is not None:
                     reachable_entries.append(result)
 
-        # Sort entries by group title and then by name
+        # Sort by group title then name
         sorted_entries = sorted(reachable_entries, key=lambda x: (x['group_title'], x['name']))
 
         # Generate M3U content
@@ -84,11 +81,13 @@ def fix_m3u_from_url(urls):
 
         return '\n'.join(m3u_content)
 
+    # Process each JSON URL
     for url in urls:
         json_data = fetch_json_content(url)
         if json_data:
             fixed_content = process_json_content(json_data)
             print(fixed_content)
+
 
 if __name__ == "__main__":
     json_urls = [
