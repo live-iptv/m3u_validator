@@ -4,14 +4,14 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 def fix_m3u_from_url(urls):
     def fetch_json_content(url):
         headers = {
-        'Accept': 'application/json',
-        'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
-    }
+            'Accept': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
+        }
         try:
             response = requests.get(url, headers=headers, timeout=10)
             if response.status_code == 200:
                 return response.json()
-        except (requests.RequestException, ValueError) as e:
+        except (requests.RequestException, ValueError):
             pass
         return None
 
@@ -26,14 +26,21 @@ def fix_m3u_from_url(urls):
 
     def process_json_content(json_data):
         entries = []
+        skip_categories = {"Malayalam", "Telugu", "Kannada"}  # Skip these
 
         for category in json_data:
             group_title = category.get('label', 'Unknown Group')
+            category_name = category.get('category', '').strip()
+
+            # Skip unwanted categories
+            if category_name in skip_categories:
+                continue
+
             for channel in category.get('channels', []):
                 url = channel.get('url', '')
-                # Skip this specific URL
                 if url == "https://live-iptv.github.io/youtube_live/assets/info.m3u8":
                     continue
+
                 entry = {
                     'group_title': group_title,
                     'tvg_logo': channel.get('logo', ''),
