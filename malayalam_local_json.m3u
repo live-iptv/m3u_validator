@@ -27,6 +27,8 @@ http://stream.logichost.in:1935/kannurvision/live/playlist.m3u8
 http://cloud.logichost.in:1935/live/mcvlive/chunklist_w141497558.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/xtmVfHdW/1000122479.jpg",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/d0mb2sgY/1000121310.jpg",Malabar News
+http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1073688293.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/RTC4yJn9/1000121317.jpg",Malabar Plus
 http://cloud.logichost.in:1935/live/mplus/chunklist_w380881802.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5Wr3H5zX/bb574b993d1d.jpg",N  Media
@@ -37,8 +39,6 @@ https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 http://rtmp.logichost.in:1935/live/onetv/chunklist_w1554463648.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/60tqyTR2/1000121468.jpg",PTA News
 http://cloud.logichost.in:1935/PTA/live/chunklist_w508578235.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5WfHsPr2/1000139778.jpg",Pravasi Tv
-https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/G35tYhkd/1000122562.jpg",Reporter
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/ZRj1vTrF/1000120396.jpg",South Vision
@@ -57,6 +57,8 @@ https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
 https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/k6gdLdhn/1000122492.jpg",VBC News
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/23JRgJRR/1000122511.jpg",VCV Tv
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/YBc5b5bJ/3669.jpg",Vibgyor
 https://pvqybagglz24-hls-live.5centscdn.com/7788_push_2913_001/c98886a28a6a78b57f2d090f3b0ecac4.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/xSxVC7fz/1000121291.jpg",Vision Kerala
