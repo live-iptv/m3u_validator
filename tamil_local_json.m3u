@@ -109,8 +109,6 @@ http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://tavapi.inditechman.com/extras/images/jtktv.jpg",JTK YV
 http://jtktv.indiamatrix.in/jtktvkay/jtktvkay.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/132rC5tXdkfjCFy1_azsNzqEjIM2uf-Ds5k7B_JmF4mgQiNEO8T3QAuowymB_TNVzg=s180-rw",KAVIN TV
-http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Local" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed%20(13).png",Kanchi TV
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616305753_kanichi.png",Kanchi TV
@@ -169,8 +167,6 @@ http://singamcloud.in/smcvtv/smcvtv/index.m3u8
 http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png",Sana Plus
 https://galaxyott.live//hls//sanaplus.m3u8
-#EXTINF:-1 group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1226146801845317456848677.png",Surya Tv
-https://galaxyott.live//hls//suryatv.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png",U Tv
 http://notvstream.in/utv/utv.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240317_0009568734016209579420980.png",Vaanavil Tv
@@ -187,10 +183,6 @@ https://galaxyott.live/hls/ntv.m3u8
 http://51.79.250.111/live/kstartv.m3u8
 #EXTINF:-1 group-title="Local HD" tvg-logo="",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Local HD" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw",Surya TV
-https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1 group-title="Local HD" tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw",Tharani TV
-http://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
 #EXTINF:-1 group-title="Local HD" tvg-logo="",Thirumagal TV
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 group-title="Local HD" tvg-logo="",Tirupur Voice TV
@@ -265,8 +257,6 @@ http://202.164.50.194:8000/play/a026/index.m3u8
 https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/rRNfF9xK/1000136495.jpg",A2A Tv
 https://live.sscloud7.in/live/a2atv/index.m3u8
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/bMpwqJXb/1000137350.png",APS Tv
-http://apstv.phoenixcreations.online/apstv/apstv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/dRLxwNg/1000136512.jpg",Aaryaa Tv
 https://live.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/G4jz0WHG/1000136463.jpg",Anandham Tv
@@ -303,8 +293,6 @@ http://198.144.149.206:8080/NOTV/KANCHIMEDIA/tracks-v1a1/mono.ts.m3u8?token=GTR
 https://account31.livebox.co.in/Kovaitvhls/live.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/N2nTm9qt/1000127608.jpg",MK Tunes
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-433
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/fzH6Z1q3/1000136542.jpg",MP Tv
-https://stream.sscloud7.in/live/mptv/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/tpjPhVqr/1000137324.jpg",Maa Tv
 https://live.singamcloud.in/maatv/maatv/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/6cbshJhQ/1000137342.png",Madhan Tv
@@ -355,6 +343,8 @@ https://cdn-2.pishow.tv/live/1383/master.m3u8
 http://45.148.145.57/IN_RajNews24x7HD/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/PvY1QcrY/20250906-014019.jpg",Raja Tv
 http://brightmeltech.in/rajatv/rajatv.m3u8
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/bjmC38F2/1000136491.png",Ramya Tv
+http://brightmeltech.in/ramyatv/ramyatv.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/Z633zv8m/rasicomedy.jpg",Rasi Comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/index.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/XMjxMTQ/1000122182.jpg",Rio Tv
