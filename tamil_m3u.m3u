@@ -37,6 +37,8 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/7cruYvo.png",NDTV Good Times (1080p)
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix_2025.svg/512px-%26flix_2025.svg.png",&flix (480p)
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/fjHcr9z.jpg",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music (576p) [Not 24/7]
@@ -83,8 +85,6 @@ https://account20.livebox.co.in/charleshls/live.m3u8
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/3Nl8Tpu.png",MTA7 Asia (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/UBBaXzz.png",Madha TV (600p)
-https://60e68b19dd194.streamlock.net:55/madhatv/madhatv.stream_HDp/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/4oF38ei.png",Raj TV
@@ -103,8 +103,6 @@ https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/ch
 https://cdn-3.pishow.tv/live/1247/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/okesED3.png",Vendhar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1271/master.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YEKEaB4.png",Verbum TV (480p) [Not 24/7]
-https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xQutJMq.png",Win TV (720p)
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3eAZMxA.png",Zee Hindustan (720p)
