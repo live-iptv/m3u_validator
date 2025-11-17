@@ -17,8 +17,12 @@ https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/Su
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pdBo8Xb.png",Gosree Vision (576p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/J3jB7Kr.png",Starnet (480p)
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (1080p)
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Bvbf9o7.png",Gubbare (1080p)
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/e9qTjgB.png",Kappa TV (576p)
@@ -55,3 +59,5 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/dSOfYyh.png",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6hTshsG.png",Shekinah TV (1080p)
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
