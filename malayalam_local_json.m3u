@@ -1,15 +1,31 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/anandtv.png",Anand Tv
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/vision_1.png",City Vision
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/drishyatv.png",Drishya Tv
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/drisyatv.png",Drisya Tv
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/harvesttv.png",Harvest Tv
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/keralatoday.png",Kerala Today
+https://live.skystream.in/live/krlatoday/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/magnavision.png",Magna Vision
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/malabar.png",Malabar Channel
 http://cloud.logichost.in:1935/live/malabarnews/chunklist_w1846101039.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/malabarplus.png",Malabar Plus
 http://cloud.logichost.in:1935/live/mplus/chunklist_w1870583417.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/mediatoday.png",Media Today
+https://live.skystream.in/live/mediatday/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/nvnchannel.png",New Vision
+https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/starnet.png",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/tcn.png",TCN Tv
+https://live.skystream.in/live/tcn8909/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/thanimatvtvm.png",Thanima Tv
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://tnm3u.live/icon/malayalam/local/vision.png",Vision Tv
 http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1809322353.m3u8
