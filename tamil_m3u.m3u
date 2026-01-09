@@ -5,16 +5,12 @@ http://103.178.78.151:7505/play/a0ux/index.m3u8
 http://103.167.255.18:8085/play/a0lk/index.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIRIPPOLI/images/LOGO_HD/image.png",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rntSEDZ.png",EET TV (1080p) [Not 24/7]
-https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL/images/LOGO_HD/image.png",National Geographic HD (1080p)
 http://103.178.78.151:7505/play/a12o/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",National Geographic Wild HD (1080p)
 http://103.167.255.18:8085/play/a0lt/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/XVUGLxa.png",Sony BBC Earth HD (1080p)
 http://103.178.78.151:7505/play/a0vu/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/rMldFW8.png",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MURASU/images/LOGO_HD/image.png",Kalaignar Murasu (396p) [Not 24/7]
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png",MK Six (720p) [Not 24/7]
@@ -37,6 +33,8 @@ https://galaxyott.live/hls/sanatv.m3u8
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png",Sun TV (1080p)
+https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 group-title="Entertainment;Family;General" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",Asia TV (720p)
