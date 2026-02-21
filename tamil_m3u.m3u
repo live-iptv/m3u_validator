@@ -103,6 +103,8 @@ https://galaxyott.live/hls/sanaplus.m3u8
 http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png",Sun Music HD (720p)
 http://15.235.144.106:14055
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6 (720p)
+https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png",Kalaignar Seithigal (720p)
@@ -137,6 +139,14 @@ https://cdn-3.pishow.tv/live/461/master.m3u8
 https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/YQK9ewf.png",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV America (720p)
+https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Indo-China (720p)
+https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ",Dharsan TV (720p)
 https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",Hebron TV (432p)
