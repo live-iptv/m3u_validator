@@ -96,7 +96,6 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20A-B.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20C-H.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20I-L.m3u',
-        'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20I-L.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20S.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20T-W.m3u',
         'https://raw.githubusercontent.com/eklins/FDTV/main/tv/xxx%20Japan%20X.m3u',
