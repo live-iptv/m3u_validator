@@ -87,7 +87,6 @@ class PlaylistUtils:
     @staticmethod
     def filter_reachable(
         entries: Sequence[Dict[str, str]],
-        max_workers: int = 20,
         allow_redirects: bool = False,
     ) -> List[Dict[str, str]]:
         def is_url_reachable(entry: Dict[str, str]) -> Optional[Dict[str, str]]:
@@ -104,7 +103,7 @@ class PlaylistUtils:
             return None
 
         reachable_entries: List[Dict[str, str]] = []
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        with ThreadPoolExecutor(max_workers=30) as executor:
             futures = [executor.submit(is_url_reachable, entry) for entry in entries]
             for future in as_completed(futures):
                 result = future.result()

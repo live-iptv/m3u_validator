@@ -13,7 +13,7 @@ def fix_m3u_from_url(urls):
                 m3u_content,
                 default_group_title=decoded_file_name,
             )
-            entries = PlaylistUtils.filter_reachable(entries, max_workers=20)
+            entries = PlaylistUtils.filter_reachable(entries)
             entries = PlaylistUtils.sort_entries(entries)
             fixed_content = PlaylistUtils.to_m3u(entries)
             print(fixed_content)
