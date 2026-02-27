@@ -31,7 +31,6 @@ def fix_m3u_from_url(urls):
         entries = PlaylistUtils.filter_reachable(
             entries,
             max_workers=20,
-            allowed_statuses=(200, 301, 302),
             allow_redirects=True,
         )
         entries = sorted(entries, key=lambda x: x['name'])

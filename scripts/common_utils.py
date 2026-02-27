@@ -6,6 +6,8 @@ import requests
 
 
 class PlaylistUtils:
+    ALLOWED_STATUS_CODES = {200, 206, 301, 302, 303, 307, 308}
+
     @staticmethod
     def fetch_text(url: str, timeout: int = 10) -> Optional[str]:
         try:
@@ -86,11 +88,8 @@ class PlaylistUtils:
     def filter_reachable(
         entries: Sequence[Dict[str, str]],
         max_workers: int = 20,
-        allowed_statuses: Sequence[int] = (200,),
         allow_redirects: bool = False,
     ) -> List[Dict[str, str]]:
-        allowed = set(allowed_statuses)
-
         def is_url_reachable(entry: Dict[str, str]) -> Optional[Dict[str, str]]:
             try:
                 response = requests.head(
@@ -98,7 +97,7 @@ class PlaylistUtils:
                     timeout=10,
                     allow_redirects=allow_redirects,
                 )
-                if response.status_code in allowed:
+                if response.status_code in PlaylistUtils.ALLOWED_STATUS_CODES:
                     return entry
             except requests.RequestException:
                 pass
