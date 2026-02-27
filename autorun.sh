@@ -1,11 +1,10 @@
 #!/bin/bash
 
-SCRIPT_DIR="$(dirname "$0")"
-echo "$SCRIPT_DIR"
+echo $(dirname $0)
 
-python3 -m pip install -r "$SCRIPT_DIR/requirements.txt"
+python3 -m pip install requests
 
-cd "$SCRIPT_DIR/scripts/"
+cd $(dirname $0)/scripts/
 
 python3 malayalam_m3u.py > ../malayalam_m3u.m3u
 python3 tamil_m3u.py > ../tamil_m3u.m3u
