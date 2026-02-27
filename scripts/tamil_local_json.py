@@ -1,59 +1,96 @@
-from m3u_utils import (
-    DEFAULT_SKIP_URLS,
-    fetch_json,
-    filter_reachable_entries,
-    get_runtime_options,
-    render_m3u,
-    sort_entries,
-)
-
+import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def fix_m3u_from_url(urls):
-    options = get_runtime_options(default_check_urls=True, default_workers=20)
+    def fetch_json_content(url):
+        headers = {
+            'Accept': 'application/json',
+            'User-Agent': 'Mozilla/5.0 (compatible; Python script)'
+        }
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            if response.status_code == 200:
+                return response.json()
+        except (requests.RequestException, ValueError):
+            pass
+        return None
+
+    def is_url_reachable(entry):
+        try:
+            url_response = requests.head(entry['url'], timeout=10, allow_redirects=True)
+            if url_response.status_code in (200, 301, 302):
+                return entry
+        except requests.RequestException:
+            pass
+        return None
 
     def process_json_content(json_data):
         entries = []
         skip_categories = {"Malayalam", "Telugu", "Kannada"}
-        seen_urls = set(DEFAULT_SKIP_URLS)
 
         for category in json_data:
-            group_title = category.get("label", "Unknown Group")
+            group_title = category.get('label', 'Unknown Group')
 
-            for channel in category.get("channels", []):
-                if channel.get("category", "").strip() in skip_categories:
+            for channel in category.get('channels', []):
+                cat = channel.get('category', '').strip()
+
+                # Skip unwanted categories
+                if cat in skip_categories:
                     continue
 
-                url = channel.get("url", "")
-                if not url or url in seen_urls:
+                url = channel.get('url', '')
+                # Skip this specific URL
+                if url == "https://live-iptv.github.io/youtube_live/assets/info.m3u8":
                     continue
 
-                entries.append(
-                    {
-                        "group_title": group_title,
-                        "tvg_logo": channel.get("logo", ""),
-                        "name": channel.get("name", channel.get("title", "Unknown")),
-                        "url": url,
-                    }
-                )
-                seen_urls.add(url)
+                entry = {
+                    'group_title': group_title,
+                    'tvg_logo': channel.get('logo', ''),
+                    'name': channel.get('name', channel.get('title', 'Unknown')),
+                    'url': url
+                }
+                entries.append(entry)
 
-        reachable_entries = filter_reachable_entries(
-            entries,
-            check_urls=options["check_urls"],
-            max_workers=options["max_workers"],
-            timeout=10,
-        )
+        # Remove duplicates by URL
+        unique_entries = []
+        seen_urls = set()
+        for entry in entries:
+            if entry['url'] not in seen_urls and entry['url']:
+                unique_entries.append(entry)
+                seen_urls.add(entry['url'])
 
-        return render_m3u(sort_entries(reachable_entries))
+        # Verify reachable URLs concurrently
+        reachable_entries = []
+        with ThreadPoolExecutor(max_workers=20) as executor:
+            future_to_entry = {executor.submit(is_url_reachable, entry): entry for entry in unique_entries}
+            for future in as_completed(future_to_entry):
+                result = future.result()
+                if result is not None:
+                    reachable_entries.append(result)
 
+        # Sort by group title then name
+        sorted_entries = sorted(reachable_entries, key=lambda x: (x['group_title'], x['name']))
+
+        # Generate M3U content
+        m3u_content = ['#EXTM3U']
+        for entry in sorted_entries:
+            m3u_content.append(
+                f'#EXTINF:-1 group-title="{entry["group_title"]}" tvg-logo="{entry["tvg_logo"]}",{entry["name"]}\n'
+                f'{entry["url"]}'
+            )
+
+        return '\n'.join(m3u_content)
+
+    # Process each JSON URL
     for url in urls:
-        json_data = fetch_json(url, timeout=10)
+        json_data = fetch_json_content(url)
         if json_data:
-            print(process_json_content(json_data))
+            fixed_content = process_json_content(json_data)
+            print(fixed_content)
 
 
 if __name__ == "__main__":
     json_urls = [
-        "https://tavapi.inditechman.com/api/tamiltvapp.json",
+        'https://tavapi.inditechman.com/api/tamiltvapp.json'
     ]
     fix_m3u_from_url(json_urls)
