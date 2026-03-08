@@ -5,12 +5,16 @@ http://103.229.254.25:7001/play/a0cl/index.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/KnbwUyb.png",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",National Geographic (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0426/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/kj4OEsb.png",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WdSjlPl.png",Amrita TV (720p)
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0474/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Wv7MOzg.png",Asianet HD (1080p)
 http://111.88.78.21:8000/play/a0pf/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/qg1IhV8.png",Asianet Plus (576p)
@@ -51,6 +55,8 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/yF2C4Dt.png",Wayanad Vision (1080p)
 https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zsTxPV9.png",ETV Bal Bharat (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0305/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KOCHU_TV/images/LOGO_HD/image.png",Kochu TV (576p)
 http://111.88.78.21:8000/play/a0xk/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",Nickelodeon (576p)
@@ -59,6 +65,8 @@ http://103.229.254.25:7001/play/a0cq/index.m3u8
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV (576p)
 https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/cps67hs.png",Asianet Movies (576p)
+http://iptvcasomsapi.jprdigital.in/x-media/C0476/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png",Kairali We (576p)
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MOVIES/images/LOGO_HD/image.png",Surya Movies (576p)
