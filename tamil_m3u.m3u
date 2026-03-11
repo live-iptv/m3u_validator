@@ -121,12 +121,12 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0540/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0314/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV/images/LOGO_HD/image.png",KTV (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0575/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/LOGO_HD/image.png",KTV HD (1080p)
+http://103.121.6.5:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",Movies Now (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0090/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",Movies Now + (1080p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0112/master.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",Roja Movies (1080p)
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix (720p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD (1080p)
@@ -233,6 +233,8 @@ http://iptvcasomsapi.jprdigital.in/x-media/C0419/master.m3u8
 http://iptvcasomsapi.jprdigital.in/x-media/C0472/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 (576p)
 http://iptvcasomsapi.jprdigital.in/x-media/C0413/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",Star Sports 2 HD (1080p)
+http://103.121.6.5:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/eWPoUxB.png",Star Sports 2 Tamil (576p)
 http://103.229.254.25:7001/play/a0dc/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/eWPoUxB.png",Star Sports 2 Tamil HD (1080p)
