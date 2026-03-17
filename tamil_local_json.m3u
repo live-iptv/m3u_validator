@@ -17,8 +17,6 @@ https://app.ashokadigital.net/app/67a779e9/index.m3u8
 https://app.ashokadigital.net/app/e323130a/index.m3u8
 #EXTINF:-1 group-title="Ashoka Digital" tvg-logo="Unknown",Thalapathy TV
 https://app.ashokadigital.net/app/1ef919c6/index.m3u8
-#EXTINF:-1 group-title="Ashoka Digital" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754494620_Ver%25202.0_04.png&w=1920&q=75",Voice Tv
-https://app.ashokadigital.net/app/85b741d1/index.m3u8
 #EXTINF:-1 group-title="Ashoka Digital" tvg-logo="https://app.ashokadigital.net/uploads/1752739119_WhatsApp Image 2025-07-17 at 12.53.10 PM.jpeg",kumaran tv
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 group-title="DRM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/5-Minute_Crafts_logo.jpg",5 Minutes Crafts
@@ -35,10 +33,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd?|drmScheme=clearkey&drmLicense=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 #EXTINF:-1 group-title="DRM" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png",Disney HD
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd?|drmScheme=clearkey&drmLicense=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 group-title="DRM" tvg-logo="https://i.ibb.co/KjmgSMVb/Picsart-25-09-02-13-14-35-124.png",Fancode 24/7
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 group-title="DRM" tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png",Fancode 24/7
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+#EXTINF:-1 group-title="DRM" tvg-logo="https://i.ibb.co/KjmgSMVb/Picsart-25-09-02-13-14-35-124.png",Fancode 24/7
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 group-title="DRM" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 group-title="DRM" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png",HBO 2
@@ -355,18 +353,24 @@ https://galaxyott.live/hls/ntv.m3u8
 https://view.rcserver.in/tmp_hls19/ammavision/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="",ASHOKA DIGITAL
 https://app.ashokadigital.net/app/12f5e922/index.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://yt3.googleusercontent.com/ve3HjSFYlGsadaxPEiqKPy_GzqXAPTyexP2WZLf92MBURD-tzqTlEYermplq9DIe6Fx9oGX2UA=s900-c-k-c0x00ffffff-no-rj",Dharshan Kanchi TV
+https://galaxyott.live/hls/dharshantv.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://play-lh.googleusercontent.com/ReC0sLVTEumA_zHAzZikfVjswWI-QiSbEhL7Nt8TCr0GDd3OVU7dK5_F23m1JhhvDqE=w240-h480-rw",Ezhil TV
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="",G TV
 http://live.singamcloud.in/gtv/gtv/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="Unknown",KCTN TV
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCcP9WoRnwBT9fQrIXE5tOLxU4RCybSMmMV_08feRBLA=s900-c-k-c0x00ffffff-no-rj",NTN TV
+https://live.skystream.in/live/ntntv/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="",TN TV
 https://view.rcserver.in/tmp_hls14/tntv/index.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="Unknown",Thirumagal TV
 http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD" tvg-logo="Unknown",Vaanavil TV
 http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
+#EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR=w240-h480-rw", South Vision TV
+https://live.skystream.in/live/southvsnklm/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1764994908_7SM%2520Still%25202.png&w=1920&q=75",7star Music
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756799145_f22cf45b-82ba-480e-b49f-b6dd13221249-removebg-preview.png&w=1920&q=75",CITI CHANNEL
@@ -421,26 +425,20 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 https://get.perfecttv.net/dash2.mpd?channel=ABO&username=vip_level7&password=vip_level7?|drmScheme=clearkey&drmLicense=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #EXTINF:-1 group-title="Tamil DRM" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png",VASANTHAM (Singapore)
 https://tglmp01.akamaized.net/out/v1/c48d1a7fbf964a6babe98743cb91424a/manifest.mpd?|drmScheme=clearkey&drmLicense=7c9082552ffa4a87947af9dd4210a5ad:139079e69feb564bfa7283cc1c3cd215
-#EXTINF:-1 group-title="Tamil DRM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",Vaanavil (Astro)
-https://get.perfecttv.net/dash2.mpd?channel=vaanavil&username=vip_level7&password=vip_level7?|drmScheme=clearkey&drmLicense=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-#EXTINF:-1 group-title="Tamil DRM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png",Vellithirai (Astro)
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=vell?|drmScheme=clearkey&drmLicense=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTINF:-1 group-title="Youtube" tvg-logo="",BMCNews
 https://transcendent-klepon-03bed9.netlify.app/bmcnews.html
 #EXTINF:-1 group-title="Youtube" tvg-logo="",Chanakyaa
 https://transcendent-klepon-03bed9.netlify.app/chanakyaa.html
 #EXTINF:-1 group-title="Youtube" tvg-logo="",LoveNature
 https://transcendent-klepon-03bed9.netlify.app/lovenature.html
-#EXTINF:-1 group-title="Youtube" tvg-logo="https://example.com/newsfirst-logo.png",NewsFirst
-https://transcendent-klepon-03bed9.netlify.app/newsfirst.html
-#EXTINF:-1 group-title="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Puthiya_Thalaimurai_Logo.png",Puthiyathalaimurai
-https://transcendent-klepon-03bed9.netlify.app/puthiyathalaimurai.html
-#EXTINF:-1 group-title="Youtube" tvg-logo="https://example.com/rajnews-logo.png",RajNews
-https://transcendent-klepon-03bed9.netlify.app/rajnews.html
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Malai_Murasu_Logo.png",Malaimurasu
+https://transcendent-klepon-03bed9.netlify.app/malaimurasu.html
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/NDTV_logo_v2.png",NDTV
+https://transcendent-klepon-03bed9.netlify.app/ndtv.html
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://example.com/news7tamil-logo.png",News7Tamil
+https://transcendent-klepon-03bed9.netlify.app/news7tamil.html
 #EXTINF:-1 group-title="Youtube" tvg-logo="",Relax1
 https://transcendent-klepon-03bed9.netlify.app/relax1.html
-#EXTINF:-1 group-title="Youtube" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Sun_News_logo.png",SunNews
-https://transcendent-klepon-03bed9.netlify.app/sunnews.html
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://example.com/tamiljanam-logo.png",TamilJanam
 https://transcendent-klepon-03bed9.netlify.app/tamiljanam.html
 #EXTINF:-1 group-title="Youtube" tvg-logo="",ZNewsTamil
