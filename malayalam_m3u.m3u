@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",Sony Yay! (576p)
 http://116.90.120.151:8000/play/a0hf/index.m3u8
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rpg0bQA.png",C Malayalam TV (1080p)
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/KnbwUyb.png",Garshom TV (360p) [Not 24/7]
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",National Geographic HD
@@ -63,8 +61,6 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png",Raj Musix Malayalam (576p)
 https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",24 News (576p)
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540",Kairali News (720p)
