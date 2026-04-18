@@ -7,6 +7,10 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",History TV18 HD (1080p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",National Geographic HD (1080p)
+http://103.157.248.140:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",National Geographic Wild HD (1080p)
+http://103.157.248.140:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brio_TV.png",Brio TV (576p)
 https://mumt02.tangotv.in/BRIOTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",Colors Tamil HD (1080p)
@@ -41,12 +45,12 @@ https://mumt04.tangotv.in/VASANTHTV/index.m3u8
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png",DD Tamil (1080p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png",Makkal TV (576i)
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malar-tv-in.png",Malar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/473/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/xv9cWSh.png",Chithiram (576p)
 https://cdn-6.pishow.tv/live/1243/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",Nickelodeon (576p)
+http://103.157.248.140:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",Sonic (576p)
 http://103.229.254.25:7001/play/a0dl/index.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png",NDTV Good Times (1080p)
@@ -57,6 +61,8 @@ http://103.229.254.25:7001/play/a0dp/index.m3u8
 https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png",Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies HD (1080p)
+http://103.157.248.140:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",Thalaa TV (1080p)
@@ -65,8 +71,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20
 https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png",Isai Aruvi (576p)
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_ISAI_ARUVI/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732168750_WhatsApp%20Image%202024-11-21%20at%2011.05.55%20AM%20(1).jpeg",Max Music (1080p)
-https://live.maxtn.in/maxmusic/maxmusic/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV (751p)
 https://cdn-2.pishow.tv/live/1383/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/N6tKUZv.png",Sana Plus (1080p)
@@ -75,8 +79,6 @@ https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",Ultimate TV (576p)
 https://mumbai-edge.smartplaytv.in/utv/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png",Vaanavil TV (720p)
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143769_ld_h15_aa.png?lock=720x540",Kalaignar Seithigal (720p)
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu TV (576p)
@@ -141,8 +143,6 @@ https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 https://mumt04.tangotv.in/PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png",Sai TV (576p)
 https://mumt03.tangotv.in/SAITVTAMILDEVOTIONAL/index.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fDdG6Y2.png",Shalini TV (576p)
-https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/DodsLuW.png",TamilVision-TV (1080p)
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",Tamilan TV (1080p)
