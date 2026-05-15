@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/saitvm.png", SAI TV
+http://198.144.149.206:8080/NOTV/SAITVMD/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",Bright Simrose TV
 https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",Grace TV Madurai
@@ -29,6 +31,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://live.singamcloud.in/gtv/gtv/index.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_1038275256601579984543340.png",ISAI HD TV
 http://server.sscloud7.in/isaihd/isaihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png",SAI TV
+http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_1432431031355866089872027.png",SANA PLUS
 https://galaxyott.live//hls//sanaplus.m3u8
 #EXTINF:-1 group-title="LOCAL CHANNELS" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png",SMCV TV
@@ -45,6 +49,8 @@ http://server.sscloud7.in/isaihd/isaihd/index.m3u8
 http://jtktv.indiamatrix.in/jtktvkay/jtktvkay.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616305753_kanichi.png",Kanchi TV
 http://198.144.149.206:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 group-title="Local" tvg-logo="https://i.ibb.co/8rgSqkz/Whats-App-Image-2024-10-12-at-8-30-53-PM.jpg",MKP tv
+http://103.219.206.189:1935/mkptv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1700892203.PNG",Maran TV
 http://server.sscloud7.in/marantv/marantv/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="",Mon Tamil TV
@@ -75,6 +81,8 @@ https://cdn-3.pishow.tv/live/1476/master.m3u8
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",ND TV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
+http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",Puthiya Thalaimurai (576p)
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540",Thanthi TV (576p)
@@ -145,6 +153,8 @@ https://stream.galaxyott.live/live/sanatv/index.m3u8
 https://stream.sscloud7.com/live/subintv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM",Suriyan TV
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT",Surya Tv
+https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1725798539.png",Thentral Tv
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/rasinetwork/thentrel%20tv.jpg",Thentrel Tv
