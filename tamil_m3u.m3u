@@ -67,6 +67,8 @@ http://149.71.34.166:8000/play/a01f/index.m3u8
 http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",Thalaa TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3MWm9nD.png",Vijay Super HD (1080p)
 http://149.71.34.166:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",Zee Thirai HD (1080p)
