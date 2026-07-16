@@ -7,6 +7,12 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WdSjlPl.png",Amrita TV (720p)
 https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/du9iZ0s.png",Asianet Middle East (576p)
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png",DD Malayalam (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/NaiA73p.png",Jaihind TV (396p)
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bkp9dIm.png",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mUHixbi.png",Magna Vision (1080p)
@@ -47,8 +53,12 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/FCXqPer.png",Kannur Vision (1080p)
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Un2gxt4.png",Malabar News (720p)
+http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png",Media One (720p)
 https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",News Malayalam 24x7 (576p)
+https://cdn-3.pishow.tv/live/1629/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png",News18 Kerala (1080p)
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala (1080p) [Not 24/7]
@@ -71,5 +81,3 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1dHarb7.png",Pravasi Channel (1080p)
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png",Shekinah TV (1080p)
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
