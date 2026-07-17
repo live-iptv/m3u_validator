@@ -1,6 +1,6 @@
 from common_utils import PlaylistUtils
 
-SKIP_ONLY_URL = 'https://tavapi.inditechman.com/api/tamiltvapp.json'
+SKIP_ONLY_URL = 'https://tavapi.inditechman.com/api/aaaaatamiltvapp.json'
 
 def fix_m3u_from_url(urls):
     def process_json_content(json_data):
