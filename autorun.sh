@@ -26,7 +26,7 @@ update_m3u "malayalam_m3u.py" "malayalam_m3u.m3u"
 update_m3u "tamil_m3u.py" "tamil_m3u.m3u"
 update_m3u "tamil_local_json.py" "tamil_local_json.m3u"
 update_m3u "malayalam_local_json.py" "malayalam_local_json.m3u"
-update_m3u "xxx_m3u.py" "xxx_m3u.m3u"
+# update_m3u "xxx_m3u.py" "xxx_m3u.m3u"
 # update_m3u "movies_m3u.py" "movies_m3u.m3u"
 # update_m3u "test_m3u.py" "test_m3u.m3u"
 
