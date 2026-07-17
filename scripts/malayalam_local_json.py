@@ -1,7 +1,5 @@
 from common_utils import PlaylistUtils
 
-SKIP_ONLY_URL = 'https://tavapi.inditechman.com/api/tamiltvapp.json'
-
 def fix_m3u_from_url(urls):
     def process_json_content(json_data):
         entries = []
@@ -39,14 +37,12 @@ def fix_m3u_from_url(urls):
 
     for url in urls:
         json_data = PlaylistUtils.fetch_json(url)
-        if url == SKIP_ONLY_URL and not json_data:
-            return
         if json_data:
             fixed_content = process_json_content(json_data)
             print(fixed_content)
 
 if __name__ == "__main__":
     json_urls = [
-        SKIP_ONLY_URL
+        'https://tavapi.inditechman.com/api/tamiltvapp.json'
     ]
     fix_m3u_from_url(json_urls)
