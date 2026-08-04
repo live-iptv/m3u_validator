@@ -3,8 +3,6 @@
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rntSEDZ.png",EET TV (1080p) [Not 24/7]
 https://eu.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/9tODclu.png",Imai TV (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/rMldFW8.png",EET TV (1080p) [Not 24/7]
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png",MK Six (720p) [Not 24/7]
@@ -19,8 +17,6 @@ https://galaxyott.live/hls/ntv.m3u8
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540",Polimer TV (720p)
 https://cdn-2.pishow.tv/live/1241/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan TV (1080p)
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",Subin TV (1080p)
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png",Suriya TV (1080p)
@@ -61,6 +57,8 @@ https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/utvtamil.png",Ultimate TV (1080p)
 https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png",Vaanavil TV (720p)
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",Vijay Takkar APAC (1080p)
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png",Madhimugam TV (576p)
@@ -131,5 +129,3 @@ https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 https://account31.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",Tamilan TV (1080p)
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png",Win TV (576p)
-https://cdn-4.pishow.tv/live/1531/master.m3u8
