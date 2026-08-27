@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",WOW Kidz Tamil (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://dtil.tmsimg.com/assets/s143791_ld_h9_aa.png?lock=720x540",Sirippoli TV (576p)
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rntSEDZ.png",EET TV (1080p) [Not 24/7]
@@ -38,7 +40,7 @@ https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540",Vasanth TV (576p)
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV (576p)
-https://cdn-3.pishow.tv/live/1271/master.m3u8
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png",YET TV (720p)
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",Zee Tamil HD (720p)
@@ -98,7 +100,7 @@ https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s144000_ld_h15_aa.png?lock=720x540",Thanthi TV (576p)
 https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png",Velicham TV (576p)
-https://cdn-3.pishow.tv/live/461/master.m3u8
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-tamil-logo-20.svg",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GlfrYs7.png",Aaseervatham TV (576p)
@@ -119,6 +121,8 @@ https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VYorU1L.png",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",Joy TV (1080p)
+https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png",Life TV (720p)
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/nhCNPJI.png",MTA6 Asia (1080p)
@@ -134,7 +138,7 @@ https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playl
 #EXTINF:-1 group-title="Religious" tvg-logo="",Sairam TV
 https://cdn-3.pishow.tv/live/1611/master.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/2z0bDRD.png",Sankara TV (576p)
-https://cdn-3.pishow.tv/live/1135/master.m3u8
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",Village TV (1080p)
@@ -145,5 +149,7 @@ http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png",Sai TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",Tamilan TV (576p)
+https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png",Win TV (576p)
-https://cdn-4.pishow.tv/live/1531/master.m3u8
+https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
