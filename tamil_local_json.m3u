@@ -11,8 +11,6 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 http://103.159.180.5:1935/live/nishanew/live.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",Raj TV (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/rowthiramtv.png",Rowthiram TV
-https://live.applelive.in/rowthiramtv/rowthiramtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png",SM CV TV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
@@ -27,8 +25,6 @@ https://stream.galaxyott.live/live/subintv/tracks-v1a1/mono.m3u8
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540",Thanthi One (576p)
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/utv.png",UTV
-https://stream.galaxyott.live/live/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/vaanam.png",Vaanam TV
 https://lanka.vaanam24.com:3712/hybrid/play.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540",Vasanth TV (576p)
@@ -63,6 +59,8 @@ https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tavapi.inditechman.com/extras/images/isaisaral.png",IsaiSaral
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",Raj Musix Tamil (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tavapi.inditechman.com/extras/images/srmusix.png",SRMusix
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/N6tKUZv.png",Sana Plus (1080p)
@@ -113,6 +111,8 @@ http://kingtv.sscloud7.in/kingtv/kingtv/index.mpd
 http://kirubaitv.sscloud7.in/live/kirubaitv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Madha_TV.jpeg",Madha  Tv
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+#EXTINF:-1 group-title="OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmy9BIV0nIetM_IUr4VdNm3M4BIaILkEuV2A&s",Makkal Tv
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu",Malar Tv
 http://malartv.sscloud7.in/malartv/malartv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/9AlykB4_g2oVcTcoC38HTQNYFlwpaCmC9WRqYGVn46BjBVl6dMk4-PseUDRWrXRY2ZQ",Manisha Tv
@@ -151,10 +151,6 @@ https://stream.galaxyott.live/live/sanatv/index.m3u8
 https://sscloud7.com/live/skytv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM",Suriyan TV
 http://suriyantv.sscloud7.in/live/suriyantv/index.mpd
-#EXTINF:-1 group-title="OTT" tvg-logo="https://content.jdmagicbox.com/comp/thoothukudi/c7/9999px461.x461.150810103016.e9c7/catalogue/surya-tv-private-local-channel-ettayapuram-road-thoothukudi-cable-tv-advertising-agencies-5m9m2awcr9.jpg",Surya HD
-http://suryatv.sscloud7.in/live/suryatvhd/index.mpd
-#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT",Surya Tv
-https://galaxyott.live/hls/suryatv.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1725798539.png",Thentral Tv
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1755348568.png",Velavan Tv
