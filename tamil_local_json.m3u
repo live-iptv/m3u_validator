@@ -203,6 +203,8 @@ http://subashhd.sscloud7.in/live/subashhd/index.m3u8
 http://saitv.sscloud7.in/live/livesaitv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/d9CowjhBRwa6Fe6ecj3cNkHZ_-G4T2_C_bB09hsBRPYQJwnf-rjD_PuqeJs6jcQHbg",Sana TV
 https://galaxyott.live/live/sanatv/index.m3u8
+#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/XAf3yuwvudSlv0RqvYxP1oUm7DsuqXanbtAzRFx9CI8dNAKOHkQbhfbpwohi9Lpf9w",Sky Tv
+https://sscloud7.com/live/skytv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/15SYoZc_Ris_TrrUQcLNjWCXL4Py_xLruhVDVLCNlAewB5jUaT_YqGzyVaMDgmfyA3Jg",Subin Tv
 http://subintv.sscloud7.in/live/subintv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/xrhduYZfMC9K2QoICuL_mltG8mfw9TaUOTwtuVj_y7Hyq09_nOMBceniqwuWfAB-LyM",Suriyan TV
@@ -221,8 +223,6 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (1080p)
 https://cdn.pishow.tv/ott/live/453/master.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",Arputhar Yesu TV (576p)
-https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png",Bhagyam TV (1080p)
 https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VYorU1L.png",Hosanna TV (720p)
@@ -309,8 +309,6 @@ https://view.rcserver.in/tmp_hls12/kcntv/index.m3u8
 http://kakatv.phoenixcreations.online/kakatv/kaka/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="",Kanchi Media
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://play-lh.googleusercontent.com/LfRXaqN5celAnHn_8Y8bQeypCIzpVhIiiUwOVYeblqe1e_F6ClEArPl61L-pbpvV-fHqFePGke8-QANxurinvw=w512-h960-rw",Kirubai Goodnews TV
-http://kirubaitv.phoenixcreations.online/kirubaitv/kirubaitv/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png",Life TV
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",MAKKAL
@@ -363,8 +361,6 @@ https://stream.sscloud7.in/live/selvatamiltv/index.mpd
 https://view.rcserver.in/tmp_hls16/senthamiltv/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://play-lh.googleusercontent.com/JBo67jHpHf_aPC7XBQJjmjl_KvrfmnZwe5zLYnadHC0Wj9ICpoTKCcNWvtDV7UnCGnjG=w512-h960-rw",Senthur TV
 http://senthurtv.phoenixcreations.online/senthurtv/senthurtv/playlist.m3u8
-#EXTINF:-1 group-title="TAMIL" tvg-logo="",Shekinah TV
-https://iptvhls.inet.moe/hls/newchannel_src/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SIRIPPOLI/images/LOGO_HD/image.png",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
@@ -437,8 +433,6 @@ https://dmtv.iptv.pics/live/dmtv/index.m3u8
 https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_17_35-PM-1.png",Devi TV
 https://app.ashokadigital.net/app/7086d917/index.m3u8
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/07/ChatGPT-Image-Apr-10-2025-01_28_23-PM-200x300.png",EET TV
-https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_55_53-AM-1-200x300.png",Eye Tamil
 https://recordings.eyetamil.tv/livetv/index.m3u8?token=eyetamil2024
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_20_49-PM-1-200x300.png",Gem TV
@@ -467,8 +461,6 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/Vibrant-logo-with-traditional-elements-1-200x300.png",MS Mathan TV
 https://phoenixcreations.keralive.workers.dev/madhantv/madhantv/madhantv/index.m3u8
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-25-2026-05_51_29-PM-1-200x300.png",MTV Chennai
-https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Aug-30-2026-12_06_10-AM-1.png",Malar TV
 https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_26_22-PM-1-200x300.png",Manasu TV
@@ -501,8 +493,6 @@ https://phoenixcreations.keralive.workers.dev/phoenix/phoenix/phoenix/index.mpd
 https://phoenixcreations.keralive.workers.dev/princetv/princetv/prince/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-15-2026-10_28_14-AM-1-200x300.png",Pugal TV
 https://phoenixcreations.keralive.workers.dev/pugal/pugaltv/pugal/index.m3u8
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_46_48-PM-1-200x300.png",Punnagai Desam TV
-https://phoenixcreations.keralive.workers.dev/punnagaidesamtv/punnagaidesamtv/punnagaidesamtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-10_38_39-AM-1-200x300.png",Ragam TV
 https://account26.livebox.co.in/RAGAMMTPhls/live.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-10_43_10-AM-1-200x300.png",S Media Puducherry
@@ -533,6 +523,8 @@ https://live20.bozztv.com/giatv/giatv-Sooriyantv/Sooriyantv/playlist.m3u8
 https://annainew.livebox.co.in/srisaihls/live.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_30_31-AM-1-200x300.png",Sri TV
 https://phoenixcreations.keralive.workers.dev/sritv/sritv/sri/index.m3u8
+#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-03_49_26-PM-1-200x300.png",Star Media
+https://rtmp.notvstream.in/starmedia/starmedia/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_20_45-PM-1-200x300.png",Subin TV
 https://stream.ottlive.co.in/subintvtamil/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_21_41-PM-1-200x300.png",TNSE Tamil
@@ -553,8 +545,6 @@ https://view.apserver.in/tmp_hls1/thiraitvplus/index.m3u8
 https://view.apserver.in/tmp_hls2/thiraitv/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-200x300.png",Time TV
 https://live.olidigital.in/timetv/timetv/index.m3u8
-#EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Aug-2-2026-09_54_15-PM-1-200x300.png",V Tamil
-https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-May-8-2026-03_54_49-PM-1-200x300.png",VTV Entertainment
 https://live-stream.in/vtv/vtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Local" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-7-2026-07_59_58-AM-1-200x300.png",Vaanam TV HD
@@ -575,8 +565,12 @@ http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 https://stream.ashokadigital.net/ashokaslm/live/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",ACN CINEMA HD
 https://app.ashokadigital.net/app/ea6afbb7/index.m3u8
+#EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",ACN ISAI HD
+https://app.ashokadigital.net/app/92954bf6/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",ACP Isai oli
 http://103.87.105.51:8080/acpisaioli/acpisaioli.m3u8
+#EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",AMMA HD
+https://app.ashokadigital.net/app/341dfe1b/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",ARASAN TV HD
 https://app.ashokadigital.net/app/d7dbeab6/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",Aadhavan Tamil Tv
@@ -591,8 +585,6 @@ https://live-stream.in/ashokatv/ashokatv/index.m3u8
 https://app.ashokadigital.net/app/dd82e91b/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",CITI TV
 https://live-stream.in/cititv/cititv/index.m3u8
-#EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",CTN Channel 
-http://217.216.79.247/ctn/channel/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",Coimbatore 
 http://brightmeltech.in/kchannel/kchannel.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",D TV 
@@ -619,8 +611,6 @@ https://pothigaifm-prabak78.radioca.st/stream
 http://podhigai-primetv.stream.nellaiiptv.com:80/live/podhigai-primetv/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",RAINBOW TV
 https://live.cloudvu.in/rainbowtv/ssdslive/playlist.m3u8
-#EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",Rtv
-http://217.216.79.247/rtv/rtv/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",SNR TV
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",SR MUSIC
@@ -633,8 +623,6 @@ http://app.ashokadigital.net/app/55c65ef4/index.m3u8
 https://app.ashokadigital.net/app/66a49d84/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",TIFC TV 
 http://198.144.149.206:8080/DINESH/TIFCTV/index.m3u8?token=YAAL
-#EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",Thendral tv
-https://app.ashokadigital.net/app/320fe68e/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",Tiruchengode
 https://app.ashokadigital.net/app/63351686/index.m3u8
 #EXTINF:-1 group-title="Tamil Nadu Channels" tvg-logo="",VAAGAI TV
