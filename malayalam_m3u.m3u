@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",Sony Yay! (1080p)
 https://r2.amml.in/sony-yay/live.m3u8
+#EXTINF:-1 group-title="Culture" tvg-logo="https://i.imgur.com/rpg0bQA.png",C Malayalam TV (1080p)
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 group-title="Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",Flowers TV USA (396p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/kj4OEsb.png",Kite Victers (720p) [Not 24/7]
@@ -25,8 +27,6 @@ https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV (United Kingdom) (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4ss0KfA.png",CCV (480p)
-https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png",Jeevan TV (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png",Kairali TV (576p)
@@ -55,6 +55,8 @@ https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-a
 https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540",Kairali News (720p)
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/FCXqPer.png",Kannur Vision (1080p)
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/diQftzP.png",Mathrubhumi News (720p)
 https://dn5yap910rvbg.cloudfront.net/live/mbnews/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png",Media One (720p)
